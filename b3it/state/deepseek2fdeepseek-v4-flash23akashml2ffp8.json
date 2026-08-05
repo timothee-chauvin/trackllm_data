@@ -8081,7 +8081,7 @@
       },
       "end": "2026-08-03T21:58:08Z",
       "end_reason": "change_detected",
-      "change_date": "2026-07-14T21:46:37Z",
+      "change_date": "2026-08-02T21:44:12Z",
       "params": {
         "detector": "scan",
         "min_batches": 4,
