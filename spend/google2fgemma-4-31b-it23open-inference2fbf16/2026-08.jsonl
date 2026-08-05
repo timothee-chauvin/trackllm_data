@@ -47,3 +47,4 @@
 {"timestamp":"2026-08-05T00:21:06Z","kind":"lt","cost":3.5000000000000004e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-08-05T03:46:27Z","kind":"lt","cost":3.5000000000000004e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-08-05T06:46:07Z","kind":"lt","cost":3.5000000000000004e-6,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-08-05T03:54:28Z","kind":"vetting","cost":1.7500000000000002e-6,"n_queries":1,"n_errors":0}
