@@ -1058,5 +1058,6 @@
   "qwen2fqwen3.6-max-preview23alibaba2ffp8": [],
   "thedrummer2funslopnemo-12b23parasail2fbf16": [],
   "deepseek2fdeepseek-v4-flash23open-inference2ffp8": [],
-  "z-ai2fglm-5.223wafer": []
+  "z-ai2fglm-5.223wafer": [],
+  "sao10k2fl3-lunaris-8b23parasail2fbf16": []
 }
