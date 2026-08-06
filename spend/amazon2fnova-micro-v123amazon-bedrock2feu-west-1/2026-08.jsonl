@@ -7,3 +7,4 @@
 {"timestamp":"2026-08-04T22:04:04Z","kind":"monitor","cost":0.00003097500000000011,"n_queries":200,"n_errors":23}
 {"timestamp":"2026-08-05T03:54:28Z","kind":"vetting","cost":1.7500000000000002e-7,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-08-05T22:06:00Z","kind":"monitor","cost":0.00003220000000000009,"n_queries":200,"n_errors":16}
+{"timestamp":"2026-08-06T04:01:16Z","kind":"vetting","cost":0.0,"n_queries":1,"n_errors":1}
