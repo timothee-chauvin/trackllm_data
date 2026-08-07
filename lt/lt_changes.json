@@ -982,7 +982,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 45.10518645781073,
+      "sigma": 45.080990208403556,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
@@ -998,9 +998,9 @@
   "moonshotai2fkimi-k2.623streamlake2ffp8": [
     {
       "endpoint": "moonshotai2fkimi-k2.623streamlake2ffp8",
-      "index": 458,
-      "date": "2026-08-04T22:30:19Z",
-      "sigma": 24.174536095681873,
+      "index": 459,
+      "date": "2026-08-05T00:15:08Z",
+      "sigma": 27.358873021261793,
       "first_detected": "2026-08-07T05:52:23.148976Z"
     }
   ],
