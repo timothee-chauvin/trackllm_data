@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3.6-max-preview",
+    "provider": "alibaba/fp8",
+    "cost": [
+      1.027,
+      6.162
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.001995461,
+    "created": "2026-04-27T03:24:02Z",
+    "last_seen": "2026-08-07T03:46:42Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-07T03:58:15Z",
+    "last_recheck": "2026-08-07T03:58:15Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
