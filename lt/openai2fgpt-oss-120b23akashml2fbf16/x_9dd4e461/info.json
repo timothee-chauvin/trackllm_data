@@ -1,0 +1,18 @@
+{
+  "prompt": "x",
+  "endpoint": {
+    "api": "openrouter",
+    "model": "openai/gpt-oss-120b",
+    "provider": "akashml/bf16",
+    "cost": [
+      0.037,
+      0.49
+    ],
+    "max_logprobs": null,
+    "cost_per_request": null,
+    "created": null,
+    "last_seen": null,
+    "supports_temperature": null,
+    "supports_logprobs": null
+  }
+}
