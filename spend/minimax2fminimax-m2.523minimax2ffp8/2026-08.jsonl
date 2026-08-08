@@ -6,3 +6,4 @@
 {"timestamp":"2026-08-05T22:06:00Z","kind":"monitor","cost":0.06227520000000008,"n_queries":200,"n_errors":0}
 {"timestamp":"2026-08-07T00:59:48Z","kind":"monitor","cost":0.06273120000000008,"n_queries":200,"n_errors":0}
 {"timestamp":"2026-08-07T21:28:41Z","kind":"monitor","cost":0.06234480000000008,"n_queries":200,"n_errors":0}
+{"timestamp":"2026-08-08T21:20:06Z","kind":"monitor","cost":0.062206800000000104,"n_queries":200,"n_errors":0}
