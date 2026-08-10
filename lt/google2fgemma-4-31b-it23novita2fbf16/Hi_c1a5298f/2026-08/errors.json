@@ -1,1 +1,1 @@
-{"seen_errors":[{"http_code":200,"message":"No logprobs returned"}]}
+{"seen_errors":[{"http_code":200,"message":"No logprobs returned"},{"http_code":503,"message":"{\"message\":\"Provider returned error\",\"code\":503,\"metadata\":{\"raw\":\"{\\\"message\\\":\\\"internal server error trace_id: 40f5793aab5545f1ec213710439a21d0\\\",\\\"type\\\":\\\"internal_server_error\\\"}\\n\",\"provider_name\":\"Novita\",\"is_byok\":false}}"}]}
