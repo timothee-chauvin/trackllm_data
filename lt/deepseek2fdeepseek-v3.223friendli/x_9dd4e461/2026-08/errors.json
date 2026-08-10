@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":422,"message":"{\"message\":\"Provider returned error\",\"code\":422,\"metadata\":{\"raw\":\"{\\\"message\\\":\\\"top_logprobs is not supported with reasoning content parsing.\\\"}\",\"provider_name\":\"Friendli\",\"is_byok\":false}}"}]}
