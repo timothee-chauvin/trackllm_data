@@ -1030,7 +1030,15 @@
   "meta-llama2fllama-3.1-70b-instruct23coreweave2fbf16": [],
   "meta-llama2fllama-3.1-8b-instruct23coreweave2fbf16": [],
   "meta-llama2fllama-3.3-70b-instruct23coreweave2ffp16": [],
-  "qwen2fqwen3-30b-a3b-instruct-250723coreweave2fbf16": [],
+  "qwen2fqwen3-30b-a3b-instruct-250723coreweave2fbf16": [
+    {
+      "endpoint": "qwen2fqwen3-30b-a3b-instruct-250723coreweave2fbf16",
+      "index": 159,
+      "date": "2026-08-09T05:58:04Z",
+      "sigma": 13.667300229025182,
+      "first_detected": "2026-08-10T12:09:54.930808Z"
+    }
+  ],
   "qwen2fqwen3-coder23coreweave2fbf16": [],
   "x-ai2fgrok-4.2023xai": [],
   "x-ai2fgrok-4.2023xai2fpriority": [],
