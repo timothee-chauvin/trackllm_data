@@ -1033,9 +1033,9 @@
   "qwen2fqwen3-30b-a3b-instruct-250723coreweave2fbf16": [
     {
       "endpoint": "qwen2fqwen3-30b-a3b-instruct-250723coreweave2fbf16",
-      "index": 159,
-      "date": "2026-08-09T05:58:04Z",
-      "sigma": 13.667300229025182,
+      "index": 175,
+      "date": "2026-08-09T21:48:09Z",
+      "sigma": 20.228072237824964,
       "first_detected": "2026-08-10T12:09:54.930808Z"
     }
   ],
