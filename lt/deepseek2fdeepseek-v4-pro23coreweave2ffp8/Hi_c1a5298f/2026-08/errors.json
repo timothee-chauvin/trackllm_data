@@ -1,1 +1,1 @@
-{"seen_errors":[{"http_code":200,"message":"No logprobs returned"}]}
+{"seen_errors":[{"http_code":200,"message":"No logprobs returned"},{"http_code":200,"message":"No usage in response; body: {\"error\":{\"message\":\"upstream call failed: Connect: deadline has elapsed\",\"code\":503}}"}]}
