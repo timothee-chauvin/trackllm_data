@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3.6-27b",
+    "provider": "chutes/fp8",
+    "cost": [
+      0.3,
+      2.0
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 5.3e-6,
+    "created": "2026-04-27T01:57:44Z",
+    "last_seen": "2026-08-13T03:23:28Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-13T03:29:44Z",
+    "last_recheck": "2026-08-13T03:29:44Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

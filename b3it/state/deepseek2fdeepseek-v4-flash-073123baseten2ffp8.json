@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "provider": "baseten/fp8",
+    "cost": [
+      0.13,
+      0.26
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.00001131,
+    "created": "2026-07-31T06:21:48Z",
+    "last_seen": "2026-08-13T03:23:28Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-13T03:29:44Z",
+    "last_recheck": "2026-08-13T03:29:44Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

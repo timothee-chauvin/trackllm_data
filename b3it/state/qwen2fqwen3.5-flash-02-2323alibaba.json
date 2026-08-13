@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3.5-flash-02-23",
+    "provider": "alibaba",
+    "cost": [
+      0.065,
+      0.26
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 9.75e-7,
+    "created": "2026-02-25T21:09:36Z",
+    "last_seen": "2026-08-13T03:23:28Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-13T03:29:44Z",
+    "last_recheck": "2026-08-13T03:29:44Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

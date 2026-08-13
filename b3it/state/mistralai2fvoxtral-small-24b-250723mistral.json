@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "mistralai/voxtral-small-24b-2507",
+    "provider": "mistral",
+    "cost": [
+      0.1,
+      0.3
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 7e-7,
+    "created": "2025-10-30T14:39:04Z",
+    "last_seen": "2026-08-13T03:23:28Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-13T03:29:44Z",
+    "last_recheck": "2026-08-13T03:29:44Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

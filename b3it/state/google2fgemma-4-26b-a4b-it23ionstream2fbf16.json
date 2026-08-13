@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "google/gemma-4-26b-a4b-it",
+    "provider": "ionstream/bf16",
+    "cost": [
+      0.13,
+      0.4
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.22e-6,
+    "created": "2026-04-03T14:53:09Z",
+    "last_seen": "2026-08-10T03:06:06Z",
+    "supports_temperature": null,
+    "supports_logprobs": null
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-13T03:29:44Z",
+    "last_recheck": "2026-08-13T03:29:44Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
