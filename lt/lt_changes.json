@@ -982,7 +982,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 44.83651211377673,
+      "sigma": 44.83338734569297,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
@@ -1090,5 +1090,25 @@
   "qwen2fqwen3-vl-30b-a3b-instruct23alibaba2ffp8": [],
   "qwen2fqwen3-vl-32b-instruct23alibaba2ffp8": [],
   "qwen2fqwen3-vl-8b-instruct23alibaba2ffp8": [],
-  "openai2fgpt-oss-120b23akashml2fbf16": []
+  "openai2fgpt-oss-120b23akashml2fbf16": [],
+  "deepseek2fdeepseek-v4-flash23sail-research2ffp4": [],
+  "qwen2fqwen-plus-2025-07-283athinking23alibaba": [],
+  "qwen2fqwen-plus23alibaba": [],
+  "qwen2fqwen3-235b-a22b-250723alibaba": [],
+  "qwen2fqwen3-30b-a3b-instruct-250723alibaba": [],
+  "qwen2fqwen3-coder-30b-a3b-instruct23alibaba": [],
+  "qwen2fqwen3-coder-flash23alibaba": [],
+  "qwen2fqwen3-coder-plus23alibaba": [],
+  "qwen2fqwen3-max-thinking23alibaba": [],
+  "qwen2fqwen3-max23alibaba": [],
+  "qwen2fqwen3-next-80b-a3b-instruct23alibaba": [],
+  "qwen2fqwen3-vl-235b-a22b-instruct23alibaba": [],
+  "qwen2fqwen3-vl-30b-a3b-instruct23alibaba": [],
+  "qwen2fqwen3-vl-32b-instruct23alibaba": [],
+  "qwen2fqwen3-vl-8b-instruct23alibaba": [],
+  "qwen2fqwen3.5-122b-a10b23alibaba": [],
+  "qwen2fqwen3.5-27b23alibaba": [],
+  "qwen2fqwen3.5-35b-a3b23alibaba": [],
+  "qwen2fqwen3.6-27b23alibaba": [],
+  "qwen2fqwen3.6-max-preview23alibaba": []
 }
