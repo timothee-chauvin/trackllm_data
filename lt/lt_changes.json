@@ -322,7 +322,15 @@
       "first_detected": "2026-06-11T17:41:46.966404Z"
     }
   ],
-  "gryphe2fmythomax-l2-13b23mancer2ffp8": [],
+  "gryphe2fmythomax-l2-13b23mancer2ffp8": [
+    {
+      "endpoint": "gryphe2fmythomax-l2-13b23mancer2ffp8",
+      "index": 2991,
+      "date": "2026-08-14T06:42:44Z",
+      "sigma": 23.57875692946713,
+      "first_detected": "2026-08-15T09:47:02.421328Z"
+    }
+  ],
   "gryphe2fmythomax-l2-13b23nextbit2fint4": [],
   "mancer2fweaver23mancer2ffp8": [
     {
@@ -829,7 +837,15 @@
       "first_detected": "2026-06-11T17:41:46.966404Z"
     }
   ],
-  "undi952fremm-slerp-l2-13b23mancer2ffp8": [],
+  "undi952fremm-slerp-l2-13b23mancer2ffp8": [
+    {
+      "endpoint": "undi952fremm-slerp-l2-13b23mancer2ffp8",
+      "index": 2991,
+      "date": "2026-08-14T06:42:44Z",
+      "sigma": 41.429643145392625,
+      "first_detected": "2026-08-15T09:47:02.421328Z"
+    }
+  ],
   "undi952fremm-slerp-l2-13b23nextbit2fbf16": [],
   "x-ai2fgrok-2-121223xai": [],
   "x-ai2fgrok-2-vision-121223xai": [],
@@ -982,7 +998,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 44.83570383177569,
+      "sigma": 44.83260503791075,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
