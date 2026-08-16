@@ -3,3 +3,4 @@
 {"timestamp":"2026-08-15T02:11:12Z","kind":"vetting","cost":6.37e-7,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-08-16T02:16:23Z","kind":"vetting","cost":4.792199999999999e-7,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-08-16T02:22:40Z","kind":"onboard","cost":0.009584400000002616,"n_queries":20000,"n_errors":0}
+{"timestamp":"2026-08-16T21:11:13Z","kind":"monitor","cost":0.00009584399999999971,"n_queries":200,"n_errors":0}
