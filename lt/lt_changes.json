@@ -998,7 +998,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 44.77173252985417,
+      "sigma": 44.77370515022472,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
@@ -1132,5 +1132,7 @@
   "x-ai2fgrok-4.623xai2fpriority": [],
   "x-ai2fgrok-4.623xai2fzdr": [],
   "x-ai2fgrok-4.623xai2fzdr2fpriority": [],
-  "minimax2fminimax-m323parasail2ffp8": []
+  "minimax2fminimax-m323parasail2ffp8": [],
+  "openai2fgpt-oss-120b23parasail2ffp4": [],
+  "openai2fgpt-oss-20b23parasail2ffp4": []
 }
