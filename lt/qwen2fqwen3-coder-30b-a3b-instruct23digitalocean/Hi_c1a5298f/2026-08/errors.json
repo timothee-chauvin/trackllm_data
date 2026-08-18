@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":404,"message":"{\"message\":\"No allowed providers are available for the selected model. Providers serving qwen/qwen3-coder-30b-a3b-instruct: novita, siliconflow, amazon-bedrock, alibaba, but your request's provider.only preference permits only: digitalocean.\",\"code\":404,\"metadata\":{\"available_providers\":[\"novita\",\"siliconflow\",\"amazon-bedrock\",\"alibaba\"],\"requested_providers\":[\"digitalocean\"]}}"}]}

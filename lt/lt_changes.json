@@ -327,7 +327,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23mancer2ffp8",
       "index": 2991,
       "date": "2026-08-14T06:42:44Z",
-      "sigma": 22.60123794081415,
+      "sigma": 22.55448760044525,
       "first_detected": "2026-08-15T09:47:02.421328Z"
     }
   ],
@@ -842,7 +842,7 @@
       "endpoint": "undi952fremm-slerp-l2-13b23mancer2ffp8",
       "index": 2991,
       "date": "2026-08-14T06:42:44Z",
-      "sigma": 39.555852601389404,
+      "sigma": 39.41848943303575,
       "first_detected": "2026-08-15T09:47:02.421328Z"
     }
   ],
