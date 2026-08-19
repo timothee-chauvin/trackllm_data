@@ -16,9 +16,9 @@
   },
   "status": "retired",
   "retired": {
-    "reason": "reinit_timeout",
-    "since": "2026-08-04T22:04:04Z",
-    "last_recheck": "2026-08-04T22:04:04Z"
+    "reason": "no_bis",
+    "since": "2026-08-19T02:18:36Z",
+    "last_recheck": "2026-08-19T02:18:36Z"
   },
   "epochs": [
     {

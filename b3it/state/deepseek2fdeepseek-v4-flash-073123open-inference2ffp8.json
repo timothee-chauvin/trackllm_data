@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "provider": "open-inference/fp8",
+    "cost": [
+      0.08,
+      0.18
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 5.8e-7,
+    "created": "2026-07-31T06:21:48Z",
+    "last_seen": "2026-08-12T03:18:24Z",
+    "supports_temperature": null,
+    "supports_logprobs": null
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-19T02:18:36Z",
+    "last_recheck": "2026-08-19T02:18:36Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
