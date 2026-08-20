@@ -1025,7 +1025,15 @@
   "z-ai2fglm-5.223alibaba": [],
   "rekaai2freka-flash-323reka2ffp8": [],
   "deepseek2fdeepseek-chat-v3.123mara": [],
-  "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16": [],
+  "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16": [
+    {
+      "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
+      "index": 564,
+      "date": "2026-08-19T14:53:34Z",
+      "sigma": 100.43495531807277,
+      "first_detected": "2026-08-20T17:01:25.387244Z"
+    }
+  ],
   "qwen2fqwen3-235b-a22b-250723gmicloud2ffp8": [],
   "thedrummer2frocinante-12b23parasail2fbf16": [],
   "qwen2fqwen3.5-9b23parasail2fbf16": [],
