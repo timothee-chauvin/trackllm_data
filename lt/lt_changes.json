@@ -327,7 +327,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23mancer2ffp8",
       "index": 2991,
       "date": "2026-08-14T06:42:44Z",
-      "sigma": 21.91418872536155,
+      "sigma": 21.88604092940827,
       "first_detected": "2026-08-15T09:47:02.421328Z"
     }
   ],
@@ -1143,5 +1143,7 @@
   "minimax2fminimax-m323parasail2ffp8": [],
   "openai2fgpt-oss-120b23parasail2ffp4": [],
   "openai2fgpt-oss-20b23parasail2ffp4": [],
-  "qwen2fqwen-plus-2025-07-2823alibaba": []
+  "qwen2fqwen-plus-2025-07-2823alibaba": [],
+  "qwen2fqwen3.7-flash23alibaba": [],
+  "z-ai2fglm-5.123alibaba2ffp8": []
 }
