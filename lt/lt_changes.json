@@ -842,7 +842,7 @@
       "endpoint": "undi952fremm-slerp-l2-13b23mancer2ffp8",
       "index": 2991,
       "date": "2026-08-14T06:42:44Z",
-      "sigma": 38.47174940862457,
+      "sigma": 38.4859403266932,
       "first_detected": "2026-08-15T09:47:02.421328Z"
     }
   ],
@@ -998,7 +998,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 44.731569261512085,
+      "sigma": 44.7295100622703,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
@@ -1028,9 +1028,9 @@
   "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16": [
     {
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
-      "index": 560,
-      "date": "2026-08-19T10:46:22Z",
-      "sigma": 76.52211761865756,
+      "index": 561,
+      "date": "2026-08-19T11:40:20Z",
+      "sigma": 85.34094732912912,
       "first_detected": "2026-08-20T11:54:01.361118Z"
     }
   ],
