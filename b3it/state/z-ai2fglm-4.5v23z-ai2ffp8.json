@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "z-ai/glm-4.5v",
+    "provider": "z-ai/fp8",
+    "cost": [
+      0.6,
+      1.8
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 3.44e-6,
+    "created": "2025-08-11T14:24:48Z",
+    "last_seen": "2026-08-20T02:12:05Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-20T02:24:04Z",
+    "last_recheck": "2026-08-20T02:24:04Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
