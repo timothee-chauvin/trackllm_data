@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":404,"message":"{\"message\":\"No allowed providers are available for the selected model. Providers serving qwen/qwen3.8-2.4t-a95b-20260812: deepinfra, siliconflow, modal, alibaba, together, venice, but your request's provider.only preference permits only: digitalocean.\",\"code\":404,\"metadata\":{\"available_providers\":[\"deepinfra\",\"siliconflow\",\"modal\",\"alibaba\",\"together\",\"venice\"],\"requested_providers\":[\"digitalocean\"]}}"}]}
