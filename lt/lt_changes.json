@@ -998,7 +998,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 44.72105090598285,
+      "sigma": 44.719086961719746,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
@@ -1028,9 +1028,9 @@
   "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16": [
     {
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
-      "index": 590,
-      "date": "2026-08-20T18:59:41Z",
-      "sigma": 96.67514118318147,
+      "index": 571,
+      "date": "2026-08-19T21:41:15Z",
+      "sigma": 102.66254301984911,
       "first_detected": "2026-08-20T17:01:25.387244Z"
     }
   ],
