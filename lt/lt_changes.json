@@ -1016,7 +1016,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake2ffp8",
       "index": 461,
       "date": "2026-08-05T06:42:26Z",
-      "sigma": 34.947452884652186,
+      "sigma": 34.94122432950839,
       "first_detected": "2026-08-07T05:52:23.148976Z"
     }
   ],
@@ -1094,7 +1094,15 @@
   "deepseek2fdeepseek-v4-pro23cloudflare": [],
   "gryphe2fmythomax-l2-13b23parasail2ffp16": [],
   "meta-llama2fllama-3.3-70b-instruct23sambanova-turbo": [],
-  "moonshotai2fkimi-k2.7-code23alibaba2ffp8": [],
+  "moonshotai2fkimi-k2.7-code23alibaba2ffp8": [
+    {
+      "endpoint": "moonshotai2fkimi-k2.7-code23alibaba2ffp8",
+      "index": 297,
+      "date": "2026-08-19T22:41:50Z",
+      "sigma": 39.64031156038023,
+      "first_detected": "2026-08-21T02:08:30.269003Z"
+    }
+  ],
   "qwen2fqwen-plus-2025-07-2823alibaba2ffp8": [],
   "qwen2fqwen-plus-2025-07-283athinking23alibaba2ffp8": [],
   "qwen2fqwen-plus23alibaba2ffp8": [],
