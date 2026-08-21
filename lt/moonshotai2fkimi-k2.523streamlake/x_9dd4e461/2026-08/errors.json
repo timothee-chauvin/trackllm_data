@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":529,"message":"{\"message\":\"Provider returned error\",\"code\":529,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"message\\\":\\\"The system is currently overloaded. Please try again later.\\\",\\\"type\\\":\\\"SystemOverloaded\\\"},\\\"request_id\\\":\\\"req-l60d75-1787296071315745833\\\"}\",\"provider_name\":\"StreamLake\",\"is_byok\":false}}"}]}
