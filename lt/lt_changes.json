@@ -337,7 +337,7 @@
       "endpoint": "mancer2fweaver23mancer2ffp8",
       "index": 2370,
       "date": "2026-03-17T01:55:14Z",
-      "sigma": 124.59007425870699,
+      "sigma": 124.33466351024994,
       "first_detected": "2026-06-11T17:41:46.966404Z"
     }
   ],
@@ -1028,9 +1028,9 @@
   "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16": [
     {
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
-      "index": 571,
-      "date": "2026-08-19T21:41:15Z",
-      "sigma": 102.66254301984911,
+      "index": 586,
+      "date": "2026-08-20T14:55:00Z",
+      "sigma": 96.94042610668295,
       "first_detected": "2026-08-20T17:01:25.387244Z"
     }
   ],
@@ -1161,7 +1161,7 @@
       "endpoint": "qwen2fqwen3.5-35b-a3b23alibaba",
       "index": 149,
       "date": "2026-08-20T11:43:23Z",
-      "sigma": 393.26509118579605,
+      "sigma": 392.38596663057183,
       "first_detected": "2026-08-21T14:09:44.297929Z"
     }
   ],
