@@ -1016,7 +1016,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake2ffp8",
       "index": 461,
       "date": "2026-08-05T06:42:26Z",
-      "sigma": 34.932770550508764,
+      "sigma": 34.92064543913555,
       "first_detected": "2026-08-07T05:52:23.148976Z"
     }
   ],
@@ -1051,9 +1051,9 @@
   "deepseek2fdeepseek-v4-pro23coreweave2ffp8": [
     {
       "endpoint": "deepseek2fdeepseek-v4-pro23coreweave2ffp8",
-      "index": 286,
-      "date": "2026-08-17T01:55:59Z",
-      "sigma": 129.7211242503083,
+      "index": 284,
+      "date": "2026-08-16T22:41:59Z",
+      "sigma": 109.86198634604847,
       "first_detected": "2026-08-19T22:52:33.958965Z"
     }
   ],
@@ -1170,7 +1170,7 @@
       "endpoint": "qwen2fqwen3.6-27b23alibaba",
       "index": 148,
       "date": "2026-08-20T10:47:36Z",
-      "sigma": 395.56749176563255,
+      "sigma": 394.707979781209,
       "first_detected": "2026-08-21T13:21:50.931905Z"
     }
   ],
