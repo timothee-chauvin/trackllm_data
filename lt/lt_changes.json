@@ -327,7 +327,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23mancer2ffp8",
       "index": 2991,
       "date": "2026-08-14T06:42:44Z",
-      "sigma": 21.572455981775793,
+      "sigma": 21.55076338515179,
       "first_detected": "2026-08-15T09:47:02.421328Z"
     }
   ],
@@ -337,7 +337,7 @@
       "endpoint": "mancer2fweaver23mancer2ffp8",
       "index": 2370,
       "date": "2026-03-17T01:55:14Z",
-      "sigma": 120.9339219493118,
+      "sigma": 120.45206998169176,
       "first_detected": "2026-06-11T17:41:46.966404Z"
     }
   ],
@@ -1067,7 +1067,7 @@
       "endpoint": "qwen2fqwen3-30b-a3b-instruct-250723coreweave2fbf16",
       "index": 175,
       "date": "2026-08-09T21:48:09Z",
-      "sigma": 20.180498618374237,
+      "sigma": 20.186500840828142,
       "first_detected": "2026-08-10T12:09:54.930808Z"
     }
   ],
