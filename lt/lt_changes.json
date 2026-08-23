@@ -998,7 +998,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 44.71469374271782,
+      "sigma": 44.71639346839641,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
@@ -1030,7 +1030,7 @@
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
       "index": 596,
       "date": "2026-08-21T01:57:42Z",
-      "sigma": 94.59136790183426,
+      "sigma": 94.41709799128309,
       "first_detected": "2026-08-20T17:01:25.387244Z"
     }
   ],

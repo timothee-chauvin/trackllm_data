@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":402,"message":"{\"message\":\"Provider returned error\",\"code\":402,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"code\\\":\\\"insufficient_quota\\\",\\\"message\\\":\\\"your balance is too low for this request — add funds at /billing or lower max_tokens\\\",\\\"type\\\":\\\"insufficient_funds\\\"}}\\n\",\"provider_name\":\"Darkbloom\",\"is_byok\":false,\"provider_error_code\":\"insufficient_quota\"}}"}]}
