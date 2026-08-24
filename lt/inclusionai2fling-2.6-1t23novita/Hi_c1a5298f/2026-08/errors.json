@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":502,"message":"{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\\"code\\\":500, \\\"reason\\\":\\\"MODEL_NOT_AVAILABLE\\\", \\\"message\\\":\\\"model not available\\\", \\\"metadata\\\":{\\\"reason\\\":\\\"model: inclusionai/ling-2.6-1t not available\\\"}}\",\"provider_name\":\"Novita\",\"is_byok\":false}}"}]}
