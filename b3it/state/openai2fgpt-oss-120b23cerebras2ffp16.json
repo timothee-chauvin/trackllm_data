@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "openai/gpt-oss-120b",
+    "provider": "cerebras/fp16",
+    "cost": [
+      0.35,
+      0.75
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.00003055,
+    "created": "2025-08-05T17:17:11Z",
+    "last_seen": "2026-08-24T02:19:29Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-24T02:24:17Z",
+    "last_recheck": "2026-08-24T02:24:17Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
