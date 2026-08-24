@@ -842,7 +842,7 @@
       "endpoint": "undi952fremm-slerp-l2-13b23mancer2ffp8",
       "index": 2991,
       "date": "2026-08-14T06:42:44Z",
-      "sigma": 37.36252320047409,
+      "sigma": 37.297361511205224,
       "first_detected": "2026-08-15T09:47:02.421328Z"
     }
   ],
@@ -998,7 +998,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 44.71183457727999,
+      "sigma": 44.71001866377558,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
