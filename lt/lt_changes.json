@@ -337,7 +337,7 @@
       "endpoint": "mancer2fweaver23mancer2ffp8",
       "index": 2370,
       "date": "2026-03-17T01:55:14Z",
-      "sigma": 112.63104281555209,
+      "sigma": 112.35094518614093,
       "first_detected": "2026-06-11T17:41:46.966404Z"
     }
   ],
@@ -998,7 +998,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake",
       "index": 504,
       "date": "2026-08-04T20:43:37Z",
-      "sigma": 44.71070387900296,
+      "sigma": 44.70899849972943,
       "first_detected": "2026-08-07T07:50:37.423865Z"
     }
   ],
@@ -1016,7 +1016,7 @@
       "endpoint": "moonshotai2fkimi-k2.623streamlake2ffp8",
       "index": 461,
       "date": "2026-08-05T06:42:26Z",
-      "sigma": 34.82091937665089,
+      "sigma": 34.800588947569224,
       "first_detected": "2026-08-07T05:52:23.148976Z"
     }
   ],
