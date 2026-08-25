@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "mistralai/ministral-3b-2512",
+    "provider": "mistral/zdr",
+    "cost": [
+      0.1,
+      0.1
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 5e-7,
+    "created": "2025-12-02T13:19:20Z",
+    "last_seen": "2026-08-25T02:15:16Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-25T02:21:53Z",
+    "last_recheck": "2026-08-25T02:21:53Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
