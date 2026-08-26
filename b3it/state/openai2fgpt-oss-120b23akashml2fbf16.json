@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "openai/gpt-oss-120b",
+    "provider": "akashml/bf16",
+    "cost": [
+      0.03,
+      0.17
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.21e-6,
+    "created": "2025-08-05T17:17:11Z",
+    "last_seen": "2026-08-26T02:19:31Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-26T02:25:18Z",
+    "last_recheck": "2026-08-26T02:25:18Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
