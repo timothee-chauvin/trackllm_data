@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3.6-35b-a3b",
+    "provider": "akashml/fp8",
+    "cost": [
+      0.1,
+      0.9
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2e-6,
+    "created": "2026-04-27T03:24:15Z",
+    "last_seen": "2026-08-27T10:44:44Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-27T10:51:05Z",
+    "last_recheck": "2026-08-27T10:51:05Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

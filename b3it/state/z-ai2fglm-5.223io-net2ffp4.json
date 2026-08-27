@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "z-ai/glm-5.2",
+    "provider": "io-net/fp4",
+    "cost": [
+      0.99,
+      3.6
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.00001053,
+    "created": "2026-06-16T17:45:30Z",
+    "last_seen": "2026-08-26T02:19:31Z",
+    "supports_temperature": null,
+    "supports_logprobs": null
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-27T10:51:05Z",
+    "last_recheck": "2026-08-27T10:51:05Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

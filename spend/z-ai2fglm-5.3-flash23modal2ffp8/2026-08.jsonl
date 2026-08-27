@@ -1,0 +1,2 @@
+{"timestamp":"2026-08-27T10:44:44Z","kind":"vetting","cost":4.89951e-6,"n_queries":3,"n_errors":1}
+{"timestamp":"2026-08-27T10:51:05Z","kind":"onboard","cost":0.04898285122502121,"n_queries":20000,"n_errors":5}
