@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":520,"message":"{\"message\":\"Provider returned error\",\"code\":520,\"metadata\":{\"raw\":\"error code: 520\\n\",\"provider_name\":\"GMICloud\",\"is_byok\":false}}"}]}
