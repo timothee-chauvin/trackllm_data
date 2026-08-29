@@ -41,3 +41,4 @@
 {"timestamp":"2026-08-25T21:18:25Z","kind":"monitor","cost":0.252350664,"n_queries":200,"n_errors":0}
 {"timestamp":"2026-08-27T00:20:48Z","kind":"monitor","cost":0.07785550799999993,"n_queries":200,"n_errors":0}
 {"timestamp":"2026-08-28T05:01:37Z","kind":"monitor","cost":0.32119447200000006,"n_queries":200,"n_errors":0}
+{"timestamp":"2026-08-29T02:56:49Z","kind":"monitor","cost":0.29377807199999995,"n_queries":200,"n_errors":0}
