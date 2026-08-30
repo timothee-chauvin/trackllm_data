@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b",
+    "provider": "venice/fp8",
+    "cost": [
+      0.625,
+      3.125
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.00001375,
+    "created": "2026-06-04T05:33:28Z",
+    "last_seen": "2026-08-30T06:03:00Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-08-30T06:09:04Z",
+    "last_recheck": "2026-08-30T06:09:04Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
