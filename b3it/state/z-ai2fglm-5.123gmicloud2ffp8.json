@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "z-ai/glm-5.1",
+    "provider": "gmicloud/fp8",
+    "cost": [
+      0.91,
+      2.86
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 8.021e-6,
+    "created": "2026-04-07T16:07:05Z",
+    "last_seen": "2026-09-01T05:49:54Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "too_expensive",
+    "since": "2026-09-01T05:56:23Z",
+    "last_recheck": "2026-09-01T05:56:23Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

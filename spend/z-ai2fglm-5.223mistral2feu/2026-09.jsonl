@@ -1,1 +1,2 @@
 {"timestamp":"2026-09-01T00:11:57Z","kind":"monitor","cost":0.003124000000000007,"n_queries":200,"n_errors":0}
+{"timestamp":"2026-09-01T05:49:54Z","kind":"vetting","cost":0.000015620000000000003,"n_queries":1,"n_errors":0}
