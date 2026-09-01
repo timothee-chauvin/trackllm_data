@@ -1,0 +1,2 @@
+{"timestamp":"2026-09-01T00:11:57Z","kind":"monitor","cost":0.0003419999999999995,"n_queries":200,"n_errors":0}
+{"timestamp":"2026-09-01T00:11:57Z","kind":"reinit","cost":0.03454721999999196,"n_queries":20200,"n_errors":0}
