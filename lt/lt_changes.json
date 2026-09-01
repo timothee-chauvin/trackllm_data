@@ -1083,7 +1083,15 @@
   "x-ai2fgrok-4.523xai": [],
   "x-ai2fgrok-4.523xai2fpriority": [],
   "x-ai2fgrok-4.523xai2fzdr": [],
-  "x-ai2fgrok-4.523xai2fzdr2fpriority": [],
+  "x-ai2fgrok-4.523xai2fzdr2fpriority": [
+    {
+      "endpoint": "x-ai2fgrok-4.523xai2fzdr2fpriority",
+      "index": 524,
+      "date": "2026-08-26T14:07:42Z",
+      "sigma": 17.694053965125867,
+      "first_detected": "2026-09-01T05:14:50.111839Z"
+    }
+  ],
   "x-ai2fgrok-build-0.123xai": [],
   "x-ai2fgrok-build-0.123xai2fpriority": [],
   "x-ai2fgrok-build-0.123xai2fzdr": [],
@@ -1170,7 +1178,7 @@
       "endpoint": "qwen2fqwen3.6-27b23alibaba",
       "index": 148,
       "date": "2026-08-20T10:47:32Z",
-      "sigma": 378.6079558774029,
+      "sigma": 377.63905815373727,
       "first_detected": "2026-08-21T13:21:50.931905Z"
     }
   ],
