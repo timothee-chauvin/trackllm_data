@@ -1,0 +1,18 @@
+{
+  "prompt": "x",
+  "endpoint": {
+    "api": "openrouter",
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "provider": "makora",
+    "cost": [
+      0.09,
+      0.195
+    ],
+    "max_logprobs": null,
+    "cost_per_request": null,
+    "created": null,
+    "last_seen": null,
+    "supports_temperature": null,
+    "supports_logprobs": null
+  }
+}
