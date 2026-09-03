@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":404,"message":"{\"message\":\"No allowed providers are available for the selected model. Providers serving qwen/qwen2.5-vl-72b-instruct: parasail, but your request's provider.only preference permits only: nebius/fp8.\",\"code\":404,\"metadata\":{\"available_providers\":[\"parasail\"],\"requested_providers\":[\"nebius/fp8\"],\"routing_funnel\":[{\"step\":\"Initial Endpoints\",\"endpoint_count\":1}],\"failed_routing_step\":\"Filter by Allowed Providers\"}}"}]}
