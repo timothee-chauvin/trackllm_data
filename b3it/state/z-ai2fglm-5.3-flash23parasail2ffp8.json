@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "z-ai/glm-5.3-flash",
+    "provider": "parasail/fp8",
+    "cost": [
+      0.15,
+      0.5
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.45e-6,
+    "created": "2026-08-26T13:59:01Z",
+    "last_seen": "2026-09-06T05:14:39Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-09-06T05:26:36Z",
+    "last_recheck": "2026-09-06T05:26:36Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
