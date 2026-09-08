@@ -1200,7 +1200,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
       "index": 474,
       "date": "2026-09-01T05:08:37Z",
-      "sigma": 105.39276832358311,
+      "sigma": 105.39276832358313,
       "first_detected": "2026-09-08T10:37:41.653419Z",
       "level_shift": 7.1838,
       "published": true
@@ -1295,7 +1295,17 @@
       "published": true
     }
   ],
-  "qwen2fqwen3.6-max-preview23alibaba": [],
+  "qwen2fqwen3.6-max-preview23alibaba": [
+    {
+      "endpoint": "qwen2fqwen3.6-max-preview23alibaba",
+      "index": 295,
+      "date": "2026-08-28T18:42:51Z",
+      "sigma": 14.79138716291966,
+      "first_detected": "2026-09-08T21:57:55.746867Z",
+      "level_shift": 0.6380285714285716,
+      "published": true
+    }
+  ],
   "morph2fmorph-v3-large23morph2ffp8": [],
   "x-ai2fgrok-4.623xai": [],
   "x-ai2fgrok-4.623xai2fpriority": [],
@@ -1313,5 +1323,6 @@
   "qwen2fqwen3.8-27b23alibaba": [],
   "google2fgemma-4-26b-a4b-it23darkbloom": [],
   "deepseek2fdeepseek-v4-pro-081323digitalocean": [],
-  "google2fgemma-4-31b-it23coreweave2ffp4": []
+  "google2fgemma-4-31b-it23coreweave2ffp4": [],
+  "deepseek2fdeepseek-v3.223mara": []
 }
