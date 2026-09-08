@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "openai/gpt-oss-20b",
+    "provider": "groq",
+    "cost": [
+      0.075,
+      0.3
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 8.1e-6,
+    "created": "2025-08-05T17:17:09Z",
+    "last_seen": "2026-09-08T05:26:42Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-09-08T05:32:25Z",
+    "last_recheck": "2026-09-08T05:32:25Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
