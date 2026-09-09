@@ -1,1 +1,1 @@
-{"seen_tokens":[" like"," you"," your"," Like","像"],"seen_logprobs":[{"tokens":[0,1,2,3,4],"logprobs":[0.0,-19.875,-20.875,-21.0,-22.25]}]}
+{"seen_tokens":[" like"," you"," your"," Like","像","It","Hello","你好","The","您好"],"seen_logprobs":[{"tokens":[0,1,2,3,4],"logprobs":[0.0,-19.875,-20.875,-21.0,-22.25]},{"tokens":[5,6,7,8,9],"logprobs":[-0.6966336,-1.3216336,-2.3216336,-3.4466336,-3.5716336]}]}

@@ -1,1 +1,1 @@
-{"seen_errors":[{"http_code":200,"message":"No usage in response; body: {\"id\":\"gen-1788287491-whRf9kRoB3QDgVq9jOgW\",\"error\":{\"message\":\"Provider returned error\",\"code\":429}}"}]}
+{"seen_errors":[{"http_code":200,"message":"No usage in response; body: {\"id\":\"gen-1788287491-whRf9kRoB3QDgVq9jOgW\",\"error\":{\"message\":\"Provider returned error\",\"code\":429}}"},{"http_code":200,"message":"No usage in response; body: {\"id\":\"gen-1788947162-NOzu22CyNQ5CFCz9KbgU\",\"error\":{\"message\":\"error code: 502\\n\",\"code\":502}}"}]}
