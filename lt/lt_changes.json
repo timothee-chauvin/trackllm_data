@@ -1298,11 +1298,11 @@
   "qwen2fqwen3.6-max-preview23alibaba": [
     {
       "endpoint": "qwen2fqwen3.6-max-preview23alibaba",
-      "index": 295,
-      "date": "2026-08-28T18:42:51Z",
-      "sigma": 14.79138716291966,
+      "index": 296,
+      "date": "2026-08-29T02:12:15Z",
+      "sigma": 17.87238350401736,
       "first_detected": "2026-09-08T21:57:55.746867Z",
-      "level_shift": 0.6380285714285716,
+      "level_shift": 0.9797142857142858,
       "published": true
     }
   ],
