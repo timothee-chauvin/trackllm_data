@@ -1200,7 +1200,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
       "index": 474,
       "date": "2026-09-01T05:08:37Z",
-      "sigma": 105.39276832358311,
+      "sigma": 105.39276832358313,
       "first_detected": "2026-09-08T10:37:41.653419Z",
       "level_shift": 7.1838,
       "published": true
@@ -1298,11 +1298,11 @@
   "qwen2fqwen3.6-max-preview23alibaba": [
     {
       "endpoint": "qwen2fqwen3.6-max-preview23alibaba",
-      "index": 304,
-      "date": "2026-08-30T17:29:40Z",
-      "sigma": 39.18415546845821,
+      "index": 305,
+      "date": "2026-08-30T21:06:18Z",
+      "sigma": 40.359511357680134,
       "first_detected": "2026-09-09T21:43:23.823580Z",
-      "level_shift": 1.3608714285714285,
+      "level_shift": 1.3633285714285712,
       "published": true
     }
   ],
@@ -1345,5 +1345,6 @@
   "z-ai2fglm-5.223mistral2fzdr": [],
   "deepseek2fdeepseek-v4-flash-073123reka2ffp4": [],
   "z-ai2fglm-5.223mistral": [],
-  "deepseek2fdeepseek-v4-flash-073123makora": []
+  "deepseek2fdeepseek-v4-flash-073123makora": [],
+  "deepseek2fdeepseek-v4-pro-081323gmicloud2ffp8": []
 }
