@@ -1200,7 +1200,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
       "index": 474,
       "date": "2026-09-01T05:08:37Z",
-      "sigma": 105.39276832358313,
+      "sigma": 105.39276832358311,
       "first_detected": "2026-09-08T10:37:41.653419Z",
       "level_shift": 7.1838,
       "published": true
@@ -1298,11 +1298,11 @@
   "qwen2fqwen3.6-max-preview23alibaba": [
     {
       "endpoint": "qwen2fqwen3.6-max-preview23alibaba",
-      "index": 306,
-      "date": "2026-08-30T23:30:11Z",
-      "sigma": 41.869643027016366,
+      "index": 307,
+      "date": "2026-08-31T05:35:09Z",
+      "sigma": 44.67586666295194,
       "first_detected": "2026-09-09T21:43:23.823580Z",
-      "level_shift": 1.364957142857143,
+      "level_shift": 1.8119571428571428,
       "published": true
     }
   ],
