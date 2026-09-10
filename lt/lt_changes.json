@@ -1342,5 +1342,7 @@
   "qwen2fqwen3.8-flash23alibaba": [],
   "z-ai2fglm-5.223alibaba2ffast": [],
   "z-ai2fglm-5.223mistral2feu": [],
-  "z-ai2fglm-5.223mistral2fzdr": []
+  "z-ai2fglm-5.223mistral2fzdr": [],
+  "deepseek2fdeepseek-v4-flash-073123reka2ffp4": [],
+  "z-ai2fglm-5.223mistral": []
 }
