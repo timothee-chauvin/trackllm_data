@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":200,"message":"No usage in response; body: {\"id\":\"gen-1789085449-ZRJpdrqkaLW0abcCYp47\",\"error\":{\"message\":\"Upstream error from Parasail: name 'get_streamable_parser_for_assistant' is not defined\",\"code\":502,\"metadata\":{\"error_type\":\"provider_unavailable\"}}}"}]}

@@ -1295,17 +1295,7 @@
       "published": true
     }
   ],
-  "qwen2fqwen3.6-max-preview23alibaba": [
-    {
-      "endpoint": "qwen2fqwen3.6-max-preview23alibaba",
-      "index": 307,
-      "date": "2026-08-31T05:35:09Z",
-      "sigma": 44.67586666295194,
-      "first_detected": "2026-09-09T21:43:23.823580Z",
-      "level_shift": 1.8119571428571428,
-      "published": true
-    }
-  ],
+  "qwen2fqwen3.6-max-preview23alibaba": [],
   "morph2fmorph-v3-large23morph2ffp8": [],
   "x-ai2fgrok-4.623xai": [],
   "x-ai2fgrok-4.623xai2fpriority": [],
@@ -1346,5 +1336,6 @@
   "deepseek2fdeepseek-v4-flash-073123reka2ffp4": [],
   "z-ai2fglm-5.223mistral": [],
   "deepseek2fdeepseek-v4-flash-073123makora": [],
-  "deepseek2fdeepseek-v4-pro-081323gmicloud2ffp8": []
+  "deepseek2fdeepseek-v4-pro-081323gmicloud2ffp8": [],
+  "ibm-granite2fgranite-4.2-8b23coreweave2fbf16": []
 }
