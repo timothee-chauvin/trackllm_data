@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "provider": "dekallm/fp8",
+    "cost": [
+      0.08,
+      0.45
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.81e-6,
+    "created": "2026-03-11T16:07:19Z",
+    "last_seen": "2026-09-11T05:30:19Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-09-11T05:39:49Z",
+    "last_recheck": "2026-09-11T05:39:49Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

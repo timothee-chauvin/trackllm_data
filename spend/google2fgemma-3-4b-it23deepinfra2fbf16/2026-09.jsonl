@@ -7,3 +7,4 @@
 {"timestamp":"2026-09-08T05:26:42Z","kind":"vetting","cost":6e-7,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-09-09T05:28:00Z","kind":"vetting","cost":6e-7,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-09-10T05:26:56Z","kind":"vetting","cost":6e-7,"n_queries":1,"n_errors":0}
+{"timestamp":"2026-09-11T05:30:19Z","kind":"vetting","cost":0.0,"n_queries":1,"n_errors":1}
