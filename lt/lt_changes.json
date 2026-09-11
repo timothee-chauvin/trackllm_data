@@ -1295,7 +1295,17 @@
       "published": true
     }
   ],
-  "qwen2fqwen3.6-max-preview23alibaba": [],
+  "qwen2fqwen3.6-max-preview23alibaba": [
+    {
+      "endpoint": "qwen2fqwen3.6-max-preview23alibaba",
+      "index": 312,
+      "date": "2026-09-06T10:56:43Z",
+      "sigma": 53.16622985550717,
+      "first_detected": "2026-09-11T04:40:56.917320Z",
+      "level_shift": 2.996088095238095,
+      "published": true
+    }
+  ],
   "morph2fmorph-v3-large23morph2ffp8": [],
   "x-ai2fgrok-4.623xai": [],
   "x-ai2fgrok-4.623xai2fpriority": [],
