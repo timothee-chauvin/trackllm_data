@@ -16,9 +16,9 @@
   },
   "status": "retired",
   "retired": {
-    "reason": "too_expensive",
-    "since": "2026-09-01T00:11:57Z",
-    "last_recheck": "2026-09-01T00:11:57Z"
+    "reason": "no_bis",
+    "since": "2026-09-15T05:39:44Z",
+    "last_recheck": "2026-09-15T05:39:44Z"
   },
   "epochs": [
     {
