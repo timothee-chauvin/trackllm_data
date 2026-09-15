@@ -1350,5 +1350,6 @@
   "ibm-granite2fgranite-4.2-8b23coreweave2fbf16": [],
   "openai2fgpt-oss-20b23akashml2ffp4": [],
   "qwen2fqwen3.8-27b23darkbloom2ffp4": [],
-  "deepseek2fdeepseek-v4-flash23mancer2ffp8": []
+  "deepseek2fdeepseek-v4-flash23mancer2ffp8": [],
+  "z-ai2fglm-5.223decart2ffast": []
 }
