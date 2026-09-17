@@ -1,1 +1,1 @@
-{"seen_errors":[{"http_code":200,"message":"No logprobs returned"}]}
+{"seen_errors":[{"http_code":200,"message":"No logprobs returned"},{"http_code":200,"message":"No usage in response; body: {\"id\":\"gen-1789608340-NuWcf7i4bXUlodA7Xf8T\",\"error\":{\"message\":\"Upstream error from GMICloud: list index out of range\",\"code\":502,\"metadata\":{\"error_type\":\"provider_unavailable\"}}}"}]}
