@@ -1,0 +1,126 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "z-ai/glm-5.3-flash",
+    "provider": "inceptron/fp8",
+    "cost": [
+      0.15,
+      0.5
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.45e-6,
+    "created": "2026-08-26T13:59:01Z",
+    "last_seen": "2026-09-17T05:39:01Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "monitoring",
+  "retired": null,
+  "epochs": [
+    {
+      "start": "2026-09-17T05:45:59Z",
+      "border_inputs": [
+        " myself",
+        "Sch",
+        " con",
+        " appro",
+        " put",
+        "ju",
+        " ou",
+        " laughing",
+        " deliver",
+        " Buff",
+        " Hon",
+        " subtle"
+      ],
+      "reference": {
+        " myself": [
+          [
+            "2026-09-17T07:51:49+00:00",
+            "Let"
+          ],
+          [
+            "2026-09-17T07:56:40+00:00",
+            "Let"
+          ]
+        ],
+        "Sch": [
+          [
+            "2026-09-17T07:52:04+00:00",
+            "The"
+          ]
+        ],
+        " con": [
+          [
+            "2026-09-17T07:51:49+00:00",
+            "Let"
+          ]
+        ],
+        " appro": [
+          [
+            "2026-09-17T07:57:16+00:00",
+            "Hmm"
+          ]
+        ],
+        " put": [
+          [
+            "2026-09-17T07:51:58+00:00",
+            "The"
+          ]
+        ],
+        "ju": [
+          [
+            "2026-09-17T07:51:51+00:00",
+            "Hmm"
+          ]
+        ],
+        " ou": [
+          [
+            "2026-09-17T07:51:58+00:00",
+            "Okay"
+          ]
+        ],
+        " laughing": [
+          [
+            "2026-09-17T07:52:00+00:00",
+            "Hmm"
+          ]
+        ],
+        " deliver": [
+          [
+            "2026-09-17T07:56:53+00:00",
+            "Hmm"
+          ]
+        ],
+        " Buff": [
+          [
+            "2026-09-17T07:56:15+00:00",
+            "Hmm"
+          ],
+          [
+            "2026-09-17T07:56:53+00:00",
+            "Hmm"
+          ]
+        ],
+        " Hon": [
+          [
+            "2026-09-17T07:56:08+00:00",
+            "The"
+          ]
+        ],
+        " subtle": [
+          [
+            "2026-09-17T07:56:43+00:00",
+            "Let"
+          ]
+        ]
+      },
+      "end": null,
+      "end_reason": null,
+      "change_date": null,
+      "params": null
+    }
+  ],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
