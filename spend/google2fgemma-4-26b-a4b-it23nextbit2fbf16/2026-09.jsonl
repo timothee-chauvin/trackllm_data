@@ -134,3 +134,5 @@
 {"timestamp":"2026-09-17T18:20:57Z","kind":"lt","cost":3.1199999999999998e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-09-17T21:31:20Z","kind":"lt","cost":3.1199999999999998e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-09-18T00:24:12Z","kind":"lt","cost":3.1199999999999998e-6,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-09-17T23:15:37Z","kind":"monitor","cost":0.00041600000000000084,"n_queries":200,"n_errors":0}
+{"timestamp":"2026-09-17T23:15:37Z","kind":"reinit","cost":0.042651400000015514,"n_queries":20200,"n_errors":0}

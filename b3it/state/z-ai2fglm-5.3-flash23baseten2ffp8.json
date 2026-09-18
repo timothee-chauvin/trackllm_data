@@ -14,8 +14,12 @@
     "supports_temperature": true,
     "supports_logprobs": false
   },
-  "status": "monitoring",
-  "retired": null,
+  "status": "retired",
+  "retired": {
+    "reason": "reinit_timeout",
+    "since": "2026-09-17T23:15:37Z",
+    "last_recheck": "2026-09-17T23:15:37Z"
+  },
   "epochs": [
     {
       "start": "2026-09-05T05:15:23Z",
@@ -8083,12 +8087,21 @@
           ]
         ]
       },
-      "end": null,
-      "end_reason": null,
-      "change_date": null,
-      "params": null
+      "end": "2026-09-17T23:15:37Z",
+      "end_reason": "change_detected",
+      "change_date": "2026-09-08T23:03:37Z",
+      "params": {
+        "detector": "scan",
+        "min_batches": 4,
+        "max_batches": 30,
+        "min_side_samples": 30,
+        "permutations": 999,
+        "alpha": 0.005,
+        "backfill_alpha": 0.002,
+        "backfill_min_separation_days": 7
+      }
     }
   ],
   "deselected_since": null,
-  "reinit_timeout_streak": 2
+  "reinit_timeout_streak": 3
 }
