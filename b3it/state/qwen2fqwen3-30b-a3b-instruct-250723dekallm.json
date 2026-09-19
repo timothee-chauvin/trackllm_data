@@ -11,14 +11,16 @@
     "cost_per_request": 1.11e-6,
     "created": "2025-07-29T16:36:05Z",
     "last_seen": "2026-07-24T04:02:21Z",
-    "supports_temperature": null
+    "supports_temperature": null,
+    "supports_logprobs": null
   },
   "status": "retired",
   "retired": {
-    "reason": "unreachable",
-    "since": "2026-07-25T04:07:21Z",
-    "last_recheck": "2026-07-25T04:07:21Z"
+    "reason": "no_bis",
+    "since": "2026-09-19T05:32:50Z",
+    "last_recheck": "2026-09-19T05:32:50Z"
   },
   "epochs": [],
-  "deselected_since": null
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
 }
