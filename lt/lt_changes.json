@@ -1354,5 +1354,8 @@
   "z-ai2fglm-5.223decart2ffast": [],
   "z-ai2fglm-5.223fireworks2ffast-us": [],
   "qwen2fqwen3.8-27b23mancer2ffp8": [],
-  "deepseek2fdeepseek-v4-pro-081323sail-research2ffp4": []
+  "deepseek2fdeepseek-v4-pro-081323sail-research2ffp4": [],
+  "deepseek2fdeepseek-v4-flash-vision-exp23gmicloud2ffp8": [],
+  "deepseek2fdeepseek-v4.1-flash23gmicloud2ffp8": [],
+  "deepseek2fdeepseek-v4.1-flash23novita2ffp8": []
 }
