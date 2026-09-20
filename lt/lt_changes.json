@@ -1357,5 +1357,8 @@
   "deepseek2fdeepseek-v4-pro-081323sail-research2ffp4": [],
   "deepseek2fdeepseek-v4-flash-vision-exp23gmicloud2ffp8": [],
   "deepseek2fdeepseek-v4.1-flash23gmicloud2ffp8": [],
-  "deepseek2fdeepseek-v4.1-flash23novita2ffp8": []
+  "deepseek2fdeepseek-v4.1-flash23novita2ffp8": [],
+  "google2fgemma-4-26b-a4b-it23makora": [],
+  "mistralai2fmistral-nemo23dekallm2ffp8": [],
+  "nvidia2fnemotron-3.5-lightning23darkbloom2fint4": []
 }
