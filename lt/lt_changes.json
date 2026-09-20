@@ -1360,5 +1360,6 @@
   "deepseek2fdeepseek-v4.1-flash23novita2ffp8": [],
   "google2fgemma-4-26b-a4b-it23makora": [],
   "mistralai2fmistral-nemo23dekallm2ffp8": [],
-  "nvidia2fnemotron-3.5-lightning23darkbloom2fint4": []
+  "nvidia2fnemotron-3.5-lightning23darkbloom2fint4": [],
+  "deepseek2fdeepseek-v4.1-flash23wafer": []
 }
