@@ -1363,5 +1363,6 @@
   "nvidia2fnemotron-3.5-lightning23darkbloom2fint4": [],
   "deepseek2fdeepseek-v4.1-flash23wafer": [],
   "deepseek2fdeepseek-v4.1-flash23together": [],
-  "qwen2fqwen3.8-27b23dekallm": []
+  "qwen2fqwen3.8-27b23dekallm": [],
+  "deepseek2fdeepseek-v4.1-flash23fireworks": []
 }
