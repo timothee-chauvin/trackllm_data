@@ -1364,5 +1364,7 @@
   "deepseek2fdeepseek-v4.1-flash23wafer": [],
   "deepseek2fdeepseek-v4.1-flash23together": [],
   "qwen2fqwen3.8-27b23dekallm": [],
-  "deepseek2fdeepseek-v4.1-flash23fireworks": []
+  "deepseek2fdeepseek-v4.1-flash23fireworks": [],
+  "deepseek2fdeepseek-v4-flash-073123wafer2ffast": [],
+  "deepseek2fdeepseek-v4.1-flash23phala": []
 }
