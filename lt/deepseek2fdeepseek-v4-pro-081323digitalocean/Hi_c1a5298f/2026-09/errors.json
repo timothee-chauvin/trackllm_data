@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":401,"message":"{\"message\":\"Provider returned error\",\"code\":401,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"message\\\":\\\"litellm.AuthenticationError: AuthenticationError: Hosted_vllmException -\\\",\\\"type\\\":\\\"unauthorized_error\\\"},\\\"message\\\":\\\"litellm.AuthenticationError: AuthenticationError: Hosted_vllmException -\\\",\\\"status_code\\\":401}\\n\",\"provider_name\":\"DigitalOcean\",\"is_byok\":false}}"}]}
