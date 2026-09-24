@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":404,"message":"{\"message\":\"No allowed providers are available for the selected model. Providers serving rekaai/reka-edge-2603: reka, but your request's provider.only preference permits only: reka/bf16.\",\"code\":404,\"metadata\":{\"available_providers\":[\"reka\"],\"requested_providers\":[\"reka/bf16\"],\"routing_funnel\":[{\"step\":\"Initial Endpoints\",\"endpoint_count\":1}],\"failed_routing_step\":\"Filter by Allowed Providers\"}}"}]}
