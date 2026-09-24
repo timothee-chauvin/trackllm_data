@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "deepseek/deepseek-v4.1-flash",
+    "provider": "reka/fp4",
+    "cost": [
+      0.29,
+      1.16
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.61e-6,
+    "created": "2026-09-10T06:21:25Z",
+    "last_seen": "2026-09-17T05:39:01Z",
+    "supports_temperature": null,
+    "supports_logprobs": null
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-09-24T05:47:13Z",
+    "last_recheck": "2026-09-24T05:47:13Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
