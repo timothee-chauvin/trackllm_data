@@ -37,3 +37,5 @@
 {"timestamp":"2026-09-26T22:56:53Z","kind":"lt","cost":0.000011166000000000001,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-09-27T01:33:55Z","kind":"lt","cost":0.000011166000000000001,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-09-27T08:16:21Z","kind":"lt","cost":0.000011166000000000001,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-09-27T05:57:47Z","kind":"vetting","cost":3.4939000000000005e-6,"n_queries":1,"n_errors":0}
+{"timestamp":"2026-09-27T06:03:37Z","kind":"onboard","cost":0.0577159139999892,"n_queries":16400,"n_errors":0}
