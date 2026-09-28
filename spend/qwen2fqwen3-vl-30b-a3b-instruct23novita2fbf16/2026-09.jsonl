@@ -28,3 +28,4 @@
 {"timestamp":"2026-09-27T18:30:20Z","kind":"lt","cost":5e-6,"n_queries":2,"n_errors":2}
 {"timestamp":"2026-09-27T22:17:54Z","kind":"lt","cost":5e-6,"n_queries":2,"n_errors":2}
 {"timestamp":"2026-09-28T00:55:47Z","kind":"lt","cost":5e-6,"n_queries":2,"n_errors":2}
+{"timestamp":"2026-09-28T07:01:04Z","kind":"lt","cost":2.5e-6,"n_queries":2,"n_errors":1}
