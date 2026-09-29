@@ -389,7 +389,7 @@
       "endpoint": "mancer2fweaver23mancer2ffp8",
       "index": 2370,
       "date": "2026-03-17T01:55:14Z",
-      "sigma": 167.62603979907175,
+      "sigma": 167.62603979907172,
       "first_detected": "2026-06-11T17:41:46.966404Z",
       "level_shift": 6.342657142857143,
       "published": true
@@ -1119,7 +1119,7 @@
       "date": "2026-08-20T16:50:43Z",
       "sigma": 116.02085259252776,
       "first_detected": "2026-08-20T17:01:25.387244Z",
-      "level_shift": 0.19007142857142856,
+      "level_shift": 0.19147142857142857,
       "published": true
     }
   ],

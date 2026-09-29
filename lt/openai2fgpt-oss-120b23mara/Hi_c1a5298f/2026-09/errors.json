@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":502,"message":"{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"balance_units\\\":0,\\\"billing_portal_url\\\":\\\"https://cloud.mara.com/plans/billing\\\",\\\"code\\\":\\\"PAYMENT_METHOD_REQUIRED\\\",\\\"message\\\":\\\"A payment method is required. Add one at https://cloud.mara.com/plans/billing to continue.\\\"}}\\n\",\"provider_name\":\"Mara\",\"is_byok\":false,\"provider_error_code\":\"PAYMENT_METHOD_REQUIRED\"}}"}]}
