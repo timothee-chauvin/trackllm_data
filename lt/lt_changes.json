@@ -1200,7 +1200,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
       "index": 474,
       "date": "2026-09-01T05:08:37Z",
-      "sigma": 105.39276832358311,
+      "sigma": 105.39276832358313,
       "first_detected": "2026-09-08T10:37:41.653419Z",
       "level_shift": 7.1838,
       "published": true
@@ -1373,5 +1373,6 @@
   "deepseek2fdeepseek-v4.1-flash23streamlake2ffp8": [],
   "prism-ml2fternary-bonsai-2-27b23darkbloom2fint4": [],
   "deepseek2fdeepseek-v4-pro-081323wafer": [],
-  "deepseek2fdeepseek-v4.1-flash23sail-research2ffp4": []
+  "deepseek2fdeepseek-v4.1-flash23sail-research2ffp4": [],
+  "qwen2fqwen3.8-27b23wafer": []
 }
