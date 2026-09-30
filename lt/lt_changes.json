@@ -1374,5 +1374,6 @@
   "prism-ml2fternary-bonsai-2-27b23darkbloom2fint4": [],
   "deepseek2fdeepseek-v4-pro-081323wafer": [],
   "deepseek2fdeepseek-v4.1-flash23sail-research2ffp4": [],
-  "qwen2fqwen3.8-27b23wafer": []
+  "qwen2fqwen3.8-27b23wafer": [],
+  "mistralai2fmistral-nemo23io-net2ffp16": []
 }
