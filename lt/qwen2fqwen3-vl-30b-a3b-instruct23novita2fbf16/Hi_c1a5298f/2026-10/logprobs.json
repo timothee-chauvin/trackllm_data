@@ -1,1 +1,1 @@
-{"seen_tokens":[],"seen_logprobs":[]}
+{"seen_tokens":["Hi","Hello","Hey","你好","Hola"],"seen_logprobs":[{"tokens":[0,1,2,3,4],"logprobs":[-0.14316675,-2.0181668,-7.6431665,-12.893167,-12.893167]}]}
