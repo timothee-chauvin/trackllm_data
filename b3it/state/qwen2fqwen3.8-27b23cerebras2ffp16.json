@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3.8-27b",
+    "provider": "cerebras/fp16",
+    "cost": [
+      0.99,
+      1.49
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.00001436,
+    "created": "2026-08-14T15:55:10Z",
+    "last_seen": "2026-10-02T06:24:11Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-02T06:35:28Z",
+    "last_recheck": "2026-10-02T06:35:28Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
