@@ -1117,7 +1117,7 @@
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
       "index": 588,
       "date": "2026-08-20T16:50:43Z",
-      "sigma": 116.02085259252776,
+      "sigma": 116.02085259252779,
       "first_detected": "2026-08-20T17:01:25.387244Z",
       "level_shift": 0.19147142857142857,
       "published": true
@@ -1376,5 +1376,8 @@
   "deepseek2fdeepseek-v4.1-flash23sail-research2ffp4": [],
   "qwen2fqwen3.8-27b23wafer": [],
   "mistralai2fmistral-nemo23io-net2ffp16": [],
-  "deepseek2fdeepseek-v4-flash-073123sail-research2fus": []
+  "deepseek2fdeepseek-v4-flash-073123sail-research2fus": [],
+  "deepseek2fdeepseek-v4-flash-073123cohere": [],
+  "deepseek2fdeepseek-v4.1-flash23coreweave2ffp8": [],
+  "google2fgemma-4-26b-a4b-it23coreweave2fbf16": []
 }
