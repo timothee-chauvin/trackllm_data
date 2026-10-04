@@ -1379,5 +1379,9 @@
   "deepseek2fdeepseek-v4-flash-073123sail-research2fus": [],
   "deepseek2fdeepseek-v4-flash-073123cohere": [],
   "deepseek2fdeepseek-v4.1-flash23coreweave2ffp8": [],
-  "google2fgemma-4-26b-a4b-it23coreweave2fbf16": []
+  "google2fgemma-4-26b-a4b-it23coreweave2fbf16": [],
+  "deepseek2fdeepseek-v4.1-flash23dekallm": [],
+  "deepseek2fdeepseek-v4.1-flash23makora2ffp8": [],
+  "inclusionai2fling-3.0-flash-vl23novita2fbf16": [],
+  "qwen2fqwen3.8-omni-flash23alibaba": []
 }
