@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3-vl-8b-instruct",
+    "provider": "primeintellect",
+    "cost": [
+      0.117,
+      0.455
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.508e-6,
+    "created": "2025-10-14T17:35:08Z",
+    "last_seen": "2026-10-04T06:31:35Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-04T06:43:46Z",
+    "last_recheck": "2026-10-04T06:43:46Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

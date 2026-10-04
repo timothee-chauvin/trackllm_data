@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "moonshotai/kimi-k2.7-code",
+    "provider": "tenstorrent/fp8",
+    "cost": [
+      0.85,
+      3.0
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.00001065,
+    "created": "2026-06-12T12:12:41Z",
+    "last_seen": "2026-10-04T06:31:35Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-04T06:43:46Z",
+    "last_recheck": "2026-10-04T06:43:46Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
