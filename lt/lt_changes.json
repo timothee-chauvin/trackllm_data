@@ -1121,6 +1121,15 @@
       "first_detected": "2026-08-20T17:01:25.387244Z",
       "level_shift": 0.19147142857142857,
       "published": true
+    },
+    {
+      "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
+      "index": 909,
+      "date": "2026-09-29T15:51:53Z",
+      "sigma": 72.24944663705149,
+      "first_detected": "2026-10-04T19:44:08.514083Z",
+      "level_shift": 0.5840047619047619,
+      "published": true
     }
   ],
   "qwen2fqwen3-235b-a22b-250723gmicloud2ffp8": [],
@@ -1200,7 +1209,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
       "index": 474,
       "date": "2026-09-01T05:08:37Z",
-      "sigma": 105.39276832358313,
+      "sigma": 105.39276832358311,
       "first_detected": "2026-09-08T10:37:41.653419Z",
       "level_shift": 7.1838,
       "published": true
