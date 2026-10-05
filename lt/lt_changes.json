@@ -1124,11 +1124,11 @@
     },
     {
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
-      "index": 911,
-      "date": "2026-09-30T00:27:29Z",
-      "sigma": 93.38971729802496,
+      "index": 912,
+      "date": "2026-09-30T06:43:27Z",
+      "sigma": 104.40535548185129,
       "first_detected": "2026-10-04T19:44:08.514083Z",
-      "level_shift": 0.7459309523809524,
+      "level_shift": 0.8021976190476191,
       "published": true
     }
   ],
@@ -1402,5 +1402,8 @@
   "deepseek2fdeepseek-v4.1-flash23dekallm": [],
   "deepseek2fdeepseek-v4.1-flash23makora2ffp8": [],
   "inclusionai2fling-3.0-flash-vl23novita2fbf16": [],
-  "qwen2fqwen3.8-omni-flash23alibaba": []
+  "qwen2fqwen3.8-omni-flash23alibaba": [],
+  "deepseek2fdeepseek-v4-flash-073123reka": [],
+  "rekaai2freka-edge23reka": [],
+  "rekaai2freka-flash-323reka": []
 }
