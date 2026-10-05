@@ -1117,18 +1117,9 @@
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
       "index": 588,
       "date": "2026-08-20T16:50:43Z",
-      "sigma": 116.02085259252779,
+      "sigma": 116.02085259252776,
       "first_detected": "2026-08-20T17:01:25.387244Z",
       "level_shift": 0.19147142857142857,
-      "published": true
-    },
-    {
-      "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
-      "index": 912,
-      "date": "2026-09-30T06:43:27Z",
-      "sigma": 104.40535548185129,
-      "first_detected": "2026-10-04T19:44:08.514083Z",
-      "level_shift": 0.8021976190476191,
       "published": true
     }
   ],
@@ -1139,7 +1130,7 @@
       "date": "2026-09-29T20:47:26Z",
       "sigma": 39.24727786618993,
       "first_detected": "2026-10-04T23:16:28.668015Z",
-      "level_shift": 0.709857142857143,
+      "level_shift": 0.7010571428571428,
       "published": true
     }
   ],
