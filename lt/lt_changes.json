@@ -1121,15 +1121,6 @@
       "first_detected": "2026-08-20T17:01:25.387244Z",
       "level_shift": 0.19147142857142857,
       "published": true
-    },
-    {
-      "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
-      "index": 916,
-      "date": "2026-10-01T05:53:54Z",
-      "sigma": 129.24959242351136,
-      "first_detected": "2026-10-06T15:18:49.748686Z",
-      "level_shift": 0.8359928571428572,
-      "published": true
     }
   ],
   "qwen2fqwen3-235b-a22b-250723gmicloud2ffp8": [
@@ -1406,5 +1397,6 @@
   "deepseek2fdeepseek-v4-flash-073123reka": [],
   "rekaai2freka-edge23reka": [],
   "rekaai2freka-flash-323reka": [],
-  "qwen2fqwen3.8-27b23reka": []
+  "qwen2fqwen3.8-27b23reka": [],
+  "google2fgemma-4-26b-a4b-it23io-net2fbf16": []
 }
