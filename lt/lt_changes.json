@@ -1396,5 +1396,6 @@
   "qwen2fqwen3.8-omni-flash23alibaba": [],
   "deepseek2fdeepseek-v4-flash-073123reka": [],
   "rekaai2freka-edge23reka": [],
-  "rekaai2freka-flash-323reka": []
+  "rekaai2freka-flash-323reka": [],
+  "qwen2fqwen3.8-27b23reka": []
 }
