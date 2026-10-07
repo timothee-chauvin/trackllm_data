@@ -1398,5 +1398,7 @@
   "rekaai2freka-edge23reka": [],
   "rekaai2freka-flash-323reka": [],
   "qwen2fqwen3.8-27b23reka": [],
-  "google2fgemma-4-26b-a4b-it23io-net2fbf16": []
+  "google2fgemma-4-26b-a4b-it23io-net2fbf16": [],
+  "google2fgemma-4-31b-it23io-net": [],
+  "nvidia2fnemotron-3.5-lightning23io-net": []
 }
