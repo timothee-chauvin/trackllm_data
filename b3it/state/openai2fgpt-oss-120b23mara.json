@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "openai/gpt-oss-120b",
+    "provider": "mara",
+    "cost": [
+      0.15,
+      0.75
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.00001095,
+    "created": "2025-08-05T17:17:11Z",
+    "last_seen": "2026-10-08T06:49:15Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-08T06:55:38Z",
+    "last_recheck": "2026-10-08T06:55:38Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

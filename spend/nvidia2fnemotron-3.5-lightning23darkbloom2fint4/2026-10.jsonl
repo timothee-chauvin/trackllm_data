@@ -46,3 +46,4 @@
 {"timestamp":"2026-10-08T00:34:25Z","kind":"monitor","cost":0.00016859999999999984,"n_queries":200,"n_errors":0}
 {"timestamp":"2026-10-08T00:34:25Z","kind":"reinit","cost":0.01702988700000558,"n_queries":20200,"n_errors":0}
 {"timestamp":"2026-10-08T07:26:46Z","kind":"lt","cost":1.686e-6,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-10-08T06:49:15Z","kind":"vetting","cost":8.43e-7,"n_queries":1,"n_errors":0}
