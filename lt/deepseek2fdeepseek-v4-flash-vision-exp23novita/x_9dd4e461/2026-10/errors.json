@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":404,"message":"{\"message\":\"No allowed providers are available for the selected model. Providers serving deepseek/deepseek-v4-flash-vision-exp-20260821: deepinfra, gmicloud, siliconflow, but your request's provider.only preference permits only: novita.\",\"code\":404,\"metadata\":{\"available_providers\":[\"deepinfra\",\"gmicloud\",\"siliconflow\"],\"requested_providers\":[\"novita\"],\"routing_funnel\":[{\"step\":\"Initial Endpoints\",\"endpoint_count\":3}],\"failed_routing_step\":\"Filter by Allowed Providers\"}}"}]}
