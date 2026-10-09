@@ -1,0 +1,18 @@
+{
+  "prompt": "x",
+  "endpoint": {
+    "api": "openrouter",
+    "model": "moonshotai/kimi-k3",
+    "provider": "phala",
+    "cost": [
+      2.55,
+      12.75
+    ],
+    "max_logprobs": 8,
+    "cost_per_request": null,
+    "created": null,
+    "last_seen": null,
+    "supports_temperature": null,
+    "supports_logprobs": null
+  }
+}

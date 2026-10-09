@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":404,"message":"{\"message\":\"Qwen3 Max Thinking was deprecated on Oct 9, 2026. We recommend migrating to Qwen3.8 Max (0902) (openrouter.ai/qwen/qwen3.8-max-0902).\",\"code\":404}"}]}
