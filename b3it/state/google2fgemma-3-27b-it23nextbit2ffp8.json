@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "google/gemma-3-27b-it",
+    "provider": "nextbit/fp8",
+    "cost": [
+      0.08,
+      0.3
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.1e-6,
+    "created": "2025-03-12T05:12:39Z",
+    "last_seen": "2026-10-09T06:54:33Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-09T07:00:29Z",
+    "last_recheck": "2026-10-09T07:00:29Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
