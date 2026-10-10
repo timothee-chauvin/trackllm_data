@@ -1411,5 +1411,8 @@
   "google2fgemma-4-31b-it23io-net": [],
   "nvidia2fnemotron-3.5-lightning23io-net": [],
   "nex-agi2fnex-n2.5-mini23nex-agi2fbf16": [],
-  "nex-agi2fnex-n2.5-pro23nex-agi2ffp8": []
+  "nex-agi2fnex-n2.5-pro23nex-agi2ffp8": [],
+  "deepseek2fdeepseek-v4.1-flash23fireworks2fus": [],
+  "deepseek2fdeepseek-v4.1-flash23ionstream": [],
+  "inclusionai2fling-3.0-flash-fin23novita": []
 }
