@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "z-ai/glm-5.3",
+    "provider": "tenstorrent/fp8",
+    "cost": [
+      0.6,
+      2.5
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.0000103,
+    "created": "2026-08-18T20:57:35Z",
+    "last_seen": "2026-10-12T06:42:50Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-12T06:49:14Z",
+    "last_recheck": "2026-10-12T06:49:14Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
