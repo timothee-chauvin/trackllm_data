@@ -1420,5 +1420,6 @@
   "z-ai2fglm-5.223morph2ffp8": [],
   "moonshotai2fkimi-k323morph2ffp8": [],
   "moonshotai2fkimi-k323sail-research2ffp4": [],
-  "qwen2fqwen3.8-27b23cerebras2ffp16": []
+  "qwen2fqwen3.8-27b23cerebras2ffp16": [],
+  "deepseek2fdeepseek-v4-pro23reka": []
 }
