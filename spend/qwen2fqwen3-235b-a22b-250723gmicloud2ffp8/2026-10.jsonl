@@ -79,3 +79,4 @@
 {"timestamp":"2026-10-13T11:59:09Z","kind":"lt","cost":0.0,"n_queries":2,"n_errors":2}
 {"timestamp":"2026-10-13T19:28:09Z","kind":"lt","cost":0.0,"n_queries":2,"n_errors":2}
 {"timestamp":"2026-10-13T23:29:16Z","kind":"lt","cost":0.0,"n_queries":2,"n_errors":2}
+{"timestamp":"2026-10-14T00:02:05Z","kind":"monitor","cost":0.0,"n_queries":200,"n_errors":200}
