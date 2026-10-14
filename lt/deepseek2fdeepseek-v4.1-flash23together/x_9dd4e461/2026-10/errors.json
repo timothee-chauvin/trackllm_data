@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":503,"message":"{\"message\":\"Provider returned error\",\"code\":503,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"message\\\":\\\"No deployments are available to serve this endpoint\\\",\\\"type\\\":\\\"service_unavailable\\\",\\\"code\\\":\\\"endpoint_unavailable\\\",\\\"param\\\":null}}\\n\",\"provider_name\":\"Together\",\"is_byok\":false,\"provider_error_code\":\"endpoint_unavailable\"}}"}]}
