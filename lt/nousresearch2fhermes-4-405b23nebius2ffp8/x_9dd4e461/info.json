@@ -8,6 +8,11 @@
       -1,
       -1
     ],
-    "max_logprobs": null
+    "max_logprobs": null,
+    "cost_per_request": null,
+    "created": null,
+    "last_seen": null,
+    "supports_temperature": null,
+    "supports_logprobs": null
   }
 }
