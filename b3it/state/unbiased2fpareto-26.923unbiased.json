@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "unbiased/pareto-26.9",
+    "provider": "unbiased",
+    "cost": [
+      2.5,
+      7.5
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.0000175,
+    "created": "2026-10-13T22:28:57Z",
+    "last_seen": "2026-10-17T05:13:11Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "too_expensive",
+    "since": "2026-10-17T05:25:46Z",
+    "last_recheck": "2026-10-17T05:25:46Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

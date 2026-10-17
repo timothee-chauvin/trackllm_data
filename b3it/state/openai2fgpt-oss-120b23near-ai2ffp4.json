@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "openai/gpt-oss-120b",
+    "provider": "near-ai/fp4",
+    "cost": [
+      0.03,
+      0.15
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.47e-6,
+    "created": "2025-08-05T17:17:11Z",
+    "last_seen": "2026-10-17T05:13:11Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-17T05:25:46Z",
+    "last_recheck": "2026-10-17T05:25:46Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

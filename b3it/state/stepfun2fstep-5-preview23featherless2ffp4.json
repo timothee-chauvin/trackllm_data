@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "stepfun/step-5-preview",
+    "provider": "featherless/fp4",
+    "cost": [
+      1.0,
+      2.7
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.0000147,
+    "created": "2026-10-08T12:34:09Z",
+    "last_seen": "2026-10-17T05:13:11Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-17T05:25:46Z",
+    "last_recheck": "2026-10-17T05:25:46Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
