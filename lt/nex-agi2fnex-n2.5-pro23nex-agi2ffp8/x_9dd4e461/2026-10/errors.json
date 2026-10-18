@@ -1,1 +1,1 @@
-{"seen_errors":[{"http_code":0,"message":"Timeout after 15.0s"}]}
+{"seen_errors":[{"http_code":0,"message":"Timeout after 15.0s"},{"http_code":530,"message":"{\"message\":\"Provider returned error\",\"code\":530,\"metadata\":{\"raw\":\"error code: 1016\\n\",\"provider_name\":\"Nex AGI\",\"is_byok\":false}}"}]}

@@ -1219,7 +1219,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
       "index": 474,
       "date": "2026-09-01T05:08:37Z",
-      "sigma": 105.39276832358311,
+      "sigma": 105.39276832358313,
       "first_detected": "2026-09-08T10:37:41.653419Z",
       "level_shift": 7.1838,
       "published": true
@@ -1427,5 +1427,9 @@
   "qwen2fqwen3-32b23tenstorrent2ffp8": [],
   "mistralai2fmistral-large-4-023mistral": [],
   "z-ai2fglm-5.223nebius2ffp4": [],
-  "xiaomi2fmimo-v2.6-flash23makora2ffp8": []
+  "xiaomi2fmimo-v2.6-flash23makora2ffp8": [],
+  "google2fgemma-3-27b-it23nextbit2ffp8": [],
+  "mistralai2fmistral-large-4-023mistral2feu": [],
+  "mistralai2fmistral-large-4-023mistral2fzdr": [],
+  "moonshotai2fkimi-k323phala": []
 }
