@@ -1432,5 +1432,9 @@
   "mistralai2fmistral-large-4-023mistral2feu": [],
   "mistralai2fmistral-large-4-023mistral2fzdr": [],
   "moonshotai2fkimi-k323phala": [],
-  "qwen2fqwen3.6-27b23reka": []
+  "qwen2fqwen3.6-27b23reka": [],
+  "qwen2fqwen3.7-flash23alibaba2fus-east-1": [],
+  "qwen2fqwen3.7-max23alibaba2fus-east-1": [],
+  "qwen2fqwen3.7-plus23alibaba2fus-east-1": [],
+  "qwen2fqwen3.8-27b23near-ai2ffp8": []
 }
