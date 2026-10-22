@@ -14,8 +14,12 @@
     "supports_temperature": true,
     "supports_logprobs": true
   },
-  "status": "monitoring",
-  "retired": null,
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-21T23:48:15Z",
+    "last_recheck": "2026-10-21T23:48:15Z"
+  },
   "epochs": [
     {
       "start": "2026-08-13T03:29:44Z",
@@ -16163,10 +16167,21 @@
           ]
         ]
       },
-      "end": null,
-      "end_reason": null,
-      "change_date": null,
-      "params": null
+      "end": "2026-10-21T23:48:15Z",
+      "end_reason": "change_detected",
+      "change_date": "2026-10-20T00:02:23Z",
+      "params": {
+        "detector": "adaptive",
+        "window": 14,
+        "exclusion": 4,
+        "min_baseline": 5,
+        "sigma_k": 4.0,
+        "abs_delta": 0.2,
+        "persistence": 3,
+        "cooldown": 10,
+        "instability_window": 14,
+        "instability_threshold": 0.35
+      }
     }
   ],
   "deselected_since": "2026-10-11T06:41:47Z",
