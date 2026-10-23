@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":400,"message":"{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"type\\\":\\\"Bad Request\\\",\\\"message\\\":\\\"Invalid request\\\",\\\"backend_status\\\":400,\\\"details\\\":\\\"Bad Request: Invalid request\\\"}}\",\"provider_name\":\"GMICloud\",\"is_byok\":false}}"}]}
