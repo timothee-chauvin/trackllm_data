@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "z-ai/glm-5.3-flash",
+    "provider": "darkbloom/fp4",
+    "cost": [
+      0.065,
+      0.18
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.025e-6,
+    "created": "2026-08-26T13:59:01Z",
+    "last_seen": "2026-10-24T05:14:10Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-24T05:20:58Z",
+    "last_recheck": "2026-10-24T05:20:58Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
