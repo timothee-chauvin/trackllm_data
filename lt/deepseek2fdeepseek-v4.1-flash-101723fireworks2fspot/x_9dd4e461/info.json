@@ -1,0 +1,18 @@
+{
+  "prompt": "x",
+  "endpoint": {
+    "api": "openrouter",
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "provider": "fireworks/spot",
+    "cost": [
+      0.21,
+      0.84
+    ],
+    "max_logprobs": null,
+    "cost_per_request": null,
+    "created": null,
+    "last_seen": null,
+    "supports_temperature": null,
+    "supports_logprobs": null
+  }
+}
