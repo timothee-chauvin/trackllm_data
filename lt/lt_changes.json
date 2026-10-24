@@ -1438,5 +1438,12 @@
   "qwen2fqwen3.7-plus23alibaba2fus-east-1": [],
   "qwen2fqwen3.8-27b23near-ai2ffp8": [],
   "qwen2fqwen3.8-flash23alibaba2fus-east-1": [],
-  "z-ai2fglm-5.223alibaba2ffp82fus-east-1": []
+  "z-ai2fglm-5.223alibaba2ffp82fus-east-1": [],
+  "deepseek2fdeepseek-v4-pro-081323wafer2fmxfp4": [],
+  "deepseek2fdeepseek-v4.1-flash23primeintellect": [],
+  "google2fgemma-3-4b-it23parasail2fbf16": [],
+  "nvidia2fnemotron-3.5-super-vl23coreweave2fnvfp4": [],
+  "nvidia2fnemotron-3.5-super-vl23together": [],
+  "openai2fgpt-oss-120b23near-ai2ffp4": [],
+  "qwen2fqwen3.8-27b23wafer2ffp8": []
 }
