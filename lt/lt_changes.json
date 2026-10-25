@@ -1445,5 +1445,8 @@
   "nvidia2fnemotron-3.5-super-vl23coreweave2fnvfp4": [],
   "nvidia2fnemotron-3.5-super-vl23together": [],
   "openai2fgpt-oss-120b23near-ai2ffp4": [],
-  "qwen2fqwen3.8-27b23wafer2ffp8": []
+  "qwen2fqwen3.8-27b23wafer2ffp8": [],
+  "deepseek2fdeepseek-v4-pro-081323dekallm": [],
+  "deepseek2fdeepseek-v4.1-flash23nebius2ffp8": [],
+  "qwen2fqwen3.8-27b23tenstorrent2ffp4": []
 }
