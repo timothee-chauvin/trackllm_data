@@ -1448,5 +1448,6 @@
   "qwen2fqwen3.8-27b23wafer2ffp8": [],
   "deepseek2fdeepseek-v4-pro-081323dekallm": [],
   "deepseek2fdeepseek-v4.1-flash23nebius2ffp8": [],
-  "qwen2fqwen3.8-27b23tenstorrent2ffp4": []
+  "qwen2fqwen3.8-27b23tenstorrent2ffp4": [],
+  "elorian2fglimpse23together": []
 }
