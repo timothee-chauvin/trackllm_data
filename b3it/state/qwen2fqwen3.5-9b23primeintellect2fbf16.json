@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3.5-9b",
+    "provider": "primeintellect/bf16",
+    "cost": [
+      0.1,
+      0.25
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.55e-6,
+    "created": "2026-03-10T14:19:56Z",
+    "last_seen": "2026-10-26T05:32:14Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-26T05:41:32Z",
+    "last_recheck": "2026-10-26T05:41:32Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
