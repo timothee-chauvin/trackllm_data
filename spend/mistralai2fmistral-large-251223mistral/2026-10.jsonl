@@ -23,3 +23,4 @@
 {"timestamp":"2026-10-22T23:46:31Z","kind":"monitor","cost":0.0005599999999999992,"n_queries":200,"n_errors":40}
 {"timestamp":"2026-10-23T23:40:07Z","kind":"monitor","cost":0.0005634999999999992,"n_queries":200,"n_errors":39}
 {"timestamp":"2026-10-24T22:47:26Z","kind":"monitor","cost":0.0004794999999999986,"n_queries":200,"n_errors":63}
+{"timestamp":"2026-10-25T22:55:54Z","kind":"monitor","cost":0.0005249999999999989,"n_queries":200,"n_errors":50}
