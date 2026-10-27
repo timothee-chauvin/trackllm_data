@@ -1,1 +1,1 @@
-{"seen_errors":[{"http_code":0,"message":"Timeout after 15.0s"}]}
+{"seen_errors":[{"http_code":0,"message":"Timeout after 15.0s"},{"http_code":529,"message":"{\"message\":\"Provider returned error\",\"code\":529,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"type\\\":\\\"server_error\\\",\\\"message\\\":\\\"System is overloaded\\\\n\\\",\\\"param\\\":null,\\\"code\\\":null},\\\"detail\\\":\\\"System is overloaded\\\\n\\\"}\",\"provider_name\":\"Nebius\",\"is_byok\":false}}"}]}
