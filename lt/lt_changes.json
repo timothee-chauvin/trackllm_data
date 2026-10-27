@@ -1449,5 +1449,9 @@
   "deepseek2fdeepseek-v4-pro-081323dekallm": [],
   "deepseek2fdeepseek-v4.1-flash23nebius2ffp8": [],
   "qwen2fqwen3.8-27b23tenstorrent2ffp4": [],
-  "elorian2fglimpse23together": []
+  "elorian2fglimpse23together": [],
+  "deepseek2fdeepseek-v4.1-flash-101723cloudflare": [],
+  "deepseek2fdeepseek-v4.1-flash-101723fireworks": [],
+  "deepseek2fdeepseek-v4.1-flash-101723parasail2ffp8": [],
+  "deepseek2fdeepseek-v4.1-flash-101723primeintellect": []
 }
