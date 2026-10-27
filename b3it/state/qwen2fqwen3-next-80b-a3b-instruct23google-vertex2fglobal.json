@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3-next-80b-a3b-instruct",
+    "provider": "google-vertex/global",
+    "cost": [
+      0.15,
+      1.2
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.55e-6,
+    "created": "2025-09-11T17:36:53Z",
+    "last_seen": "2026-10-21T05:31:22Z",
+    "supports_temperature": null,
+    "supports_logprobs": null
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-27T05:55:12Z",
+    "last_recheck": "2026-10-27T05:55:12Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

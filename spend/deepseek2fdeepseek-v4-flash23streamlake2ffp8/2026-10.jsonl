@@ -87,3 +87,5 @@
 {"timestamp":"2026-10-24T05:14:10Z","kind":"vetting","cost":2.9988e-7,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-10-25T05:27:56Z","kind":"vetting","cost":1.96e-7,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-10-26T05:32:14Z","kind":"vetting","cost":5.782e-7,"n_queries":1,"n_errors":0}
+{"timestamp":"2026-10-27T05:48:21Z","kind":"vetting","cost":5.782e-7,"n_queries":1,"n_errors":0}
+{"timestamp":"2026-10-27T05:55:12Z","kind":"recheck","cost":0.01814740480000144,"n_queries":20128,"n_errors":0}
