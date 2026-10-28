@@ -1,0 +1,18 @@
+{
+  "prompt": "x",
+  "endpoint": {
+    "api": "openrouter",
+    "model": "tencent/hy4-preview",
+    "provider": "io-net/fp8",
+    "cost": [
+      0.834,
+      2.501
+    ],
+    "max_logprobs": null,
+    "cost_per_request": null,
+    "created": null,
+    "last_seen": null,
+    "supports_temperature": null,
+    "supports_logprobs": null
+  }
+}
