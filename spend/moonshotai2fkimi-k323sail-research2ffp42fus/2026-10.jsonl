@@ -70,3 +70,4 @@
 {"timestamp":"2026-10-27T21:26:20Z","kind":"lt","cost":0.0000315,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-10-28T01:32:51Z","kind":"lt","cost":0.0000315,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-10-28T08:38:41Z","kind":"lt","cost":0.0000315,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-10-28T06:27:14Z","kind":"vetting","cost":0.00001537,"n_queries":1,"n_errors":0}
