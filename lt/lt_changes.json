@@ -1455,5 +1455,7 @@
   "deepseek2fdeepseek-v4.1-flash-101723parasail2ffp8": [],
   "deepseek2fdeepseek-v4.1-flash-101723primeintellect": [],
   "moonshotai2fkimi-k323sail-research2ffp42fus": [],
-  "deepseek2fdeepseek-v4.1-flash-101723together": []
+  "deepseek2fdeepseek-v4.1-flash-101723together": [],
+  "moonshotai2fkimi-k323makora2ffp4": [],
+  "qwen2fqwen3.8-27b23modal": []
 }
