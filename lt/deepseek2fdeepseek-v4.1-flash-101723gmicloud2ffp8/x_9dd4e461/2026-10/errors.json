@@ -1,1 +1,1 @@
-{"seen_errors":[{"http_code":200,"message":"No usage in response; body: {\"id\":\"gen-1792740753-krt0in515IR8vhjyIk48\",\"error\":{\"message\":\"Upstream error from GMICloud: Invalid request\",\"code\":400,\"metadata\":{\"error_type\":\"invalid_request\"}}}"}]}
+{"seen_errors":[{"http_code":200,"message":"No usage in response; body: {\"id\":\"gen-1792740753-krt0in515IR8vhjyIk48\",\"error\":{\"message\":\"Upstream error from GMICloud: Invalid request\",\"code\":400,\"metadata\":{\"error_type\":\"invalid_request\"}}}"},{"http_code":200,"message":"No logprobs returned"}]}
