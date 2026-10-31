@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-31T06:35:05Z","kind":"vetting","cost":3.7419999999999995e-7,"n_queries":1,"n_errors":0}
+{"timestamp":"2026-10-31T06:47:07Z","kind":"recheck","cost":0.024488975000006383,"n_queries":20000,"n_errors":9}

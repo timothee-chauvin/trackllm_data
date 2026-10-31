@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "minimax/minimax-m3.1-flash",
+    "provider": "tenstorrent/fp8",
+    "cost": [
+      0.05,
+      0.2
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.01e-6,
+    "created": "2026-10-19T03:12:49Z",
+    "last_seen": "2026-10-31T06:35:05Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-10-31T06:47:07Z",
+    "last_recheck": "2026-10-31T06:47:07Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
