@@ -1460,5 +1460,7 @@
   "qwen2fqwen3.8-27b23modal": [],
   "deepseek2fdeepseek-v4.1-flash-101723gmicloud2ffp8": [],
   "deepseek2fdeepseek-v4.1-flash-101723novita2ffp8": [],
-  "deepseek2fdeepseek-v4.1-flash-101723reka": []
+  "deepseek2fdeepseek-v4.1-flash-101723reka": [],
+  "deepseek2fdeepseek-v4.1-flash-101723phala": [],
+  "deepseek2fdeepseek-v4.1-flash23fireworks2fspot": []
 }
