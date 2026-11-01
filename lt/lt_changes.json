@@ -1466,5 +1466,7 @@
   "deepseek2fdeepseek-v4.1-flash-101723ionstream": [],
   "deepseek2fdeepseek-v4.1-flash-101723makora2ffp8": [],
   "deepseek2fdeepseek-v4.1-flash-101723sail-research2ffp42fus": [],
-  "nvidia2fnemotron-3.5-super-vl23io-net2fnvfp4": []
+  "nvidia2fnemotron-3.5-super-vl23io-net2fnvfp4": [],
+  "deepseek2fdeepseek-v4.1-flash-101723sail-research2ffp4": [],
+  "deepseek2fdeepseek-v4.1-flash23reka": []
 }
