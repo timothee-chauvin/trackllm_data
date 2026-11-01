@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "openai/gpt-oss-20b",
+    "provider": "primeintellect/fp4",
+    "cost": [
+      0.007,
+      0.027
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 5.04e-7,
+    "created": "2025-08-05T17:17:09Z",
+    "last_seen": "2026-11-01T06:59:37Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-01T07:11:47Z",
+    "last_recheck": "2026-11-01T07:11:47Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
