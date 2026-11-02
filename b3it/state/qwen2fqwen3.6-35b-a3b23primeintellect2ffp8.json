@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3.6-35b-a3b",
+    "provider": "primeintellect/fp8",
+    "cost": [
+      0.01,
+      0.092
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.22e-7,
+    "created": "2026-04-27T03:24:15Z",
+    "last_seen": "2026-11-02T06:59:55Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-02T07:13:57Z",
+    "last_recheck": "2026-11-02T07:13:57Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
