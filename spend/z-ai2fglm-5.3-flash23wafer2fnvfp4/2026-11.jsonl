@@ -1,1 +1,3 @@
 {"timestamp":"2026-11-01T06:59:37Z","kind":"vetting","cost":9.019999999999999e-7,"n_queries":1,"n_errors":0}
+{"timestamp":"2026-11-02T00:02:21Z","kind":"monitor","cost":0.00041200000000000096,"n_queries":200,"n_errors":0}
+{"timestamp":"2026-11-02T00:02:21Z","kind":"reinit","cost":0.031312000000011775,"n_queries":15200,"n_errors":0}
