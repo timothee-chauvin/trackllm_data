@@ -1474,5 +1474,6 @@
   "deepseek2fdeepseek-v4.1-flash-101723nebius2ffp8": [],
   "deepseek2fdeepseek-v4.1-flash23cohere": [],
   "xiaomi2fmimo-v2.6-flash23cohere": [],
-  "google2fgemma-4-31b-it23dekallm": []
+  "google2fgemma-4-31b-it23dekallm": [],
+  "deepseek2fdeepseek-v4.1-flash23sail-research2ffp42fus": []
 }
