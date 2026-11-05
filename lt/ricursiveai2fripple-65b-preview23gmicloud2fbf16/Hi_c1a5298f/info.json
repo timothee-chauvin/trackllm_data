@@ -1,0 +1,18 @@
+{
+  "prompt": "Hi",
+  "endpoint": {
+    "api": "openrouter",
+    "model": "ricursiveai/ripple-65b-preview",
+    "provider": "gmicloud/bf16",
+    "cost": [
+      0.2,
+      0.6
+    ],
+    "max_logprobs": null,
+    "cost_per_request": null,
+    "created": null,
+    "last_seen": null,
+    "supports_temperature": null,
+    "supports_logprobs": null
+  }
+}

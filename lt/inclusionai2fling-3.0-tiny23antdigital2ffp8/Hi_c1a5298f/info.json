@@ -1,0 +1,18 @@
+{
+  "prompt": "Hi",
+  "endpoint": {
+    "api": "openrouter",
+    "model": "inclusionai/ling-3.0-tiny",
+    "provider": "antdigital/fp8",
+    "cost": [
+      0.015,
+      0.045
+    ],
+    "max_logprobs": null,
+    "cost_per_request": null,
+    "created": null,
+    "last_seen": null,
+    "supports_temperature": null,
+    "supports_logprobs": null
+  }
+}

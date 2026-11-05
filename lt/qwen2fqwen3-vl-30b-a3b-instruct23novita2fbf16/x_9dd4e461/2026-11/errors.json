@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":503,"message":"{\"message\":\"Provider returned error\",\"code\":503,\"metadata\":{\"raw\":\"{\\\"message\\\":\\\"internal server error trace_id: 7e3c81fd971416826fbc9baab01382dc\\\",\\\"type\\\":\\\"internal_server_error\\\"}\\n\",\"provider_name\":\"Novita\",\"is_byok\":false}}"}]}
