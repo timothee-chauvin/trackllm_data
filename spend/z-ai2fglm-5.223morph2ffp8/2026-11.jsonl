@@ -21,3 +21,4 @@
 {"timestamp":"2026-11-05T12:30:58Z","kind":"lt","cost":9.59e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-11-05T20:51:02Z","kind":"lt","cost":9.59e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-11-06T01:38:23Z","kind":"lt","cost":9.59e-6,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-11-06T01:16:54Z","kind":"monitor","cost":0.0008738000000000045,"n_queries":200,"n_errors":0}
