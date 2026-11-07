@@ -8,3 +8,5 @@
 {"timestamp":"2026-11-05T07:33:55Z","kind":"vetting","cost":0.000020848999999999996,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-11-06T01:16:54Z","kind":"monitor","cost":0.0041072529999999895,"n_queries":200,"n_errors":3}
 {"timestamp":"2026-11-06T07:30:51Z","kind":"vetting","cost":0.000020848999999999996,"n_queries":1,"n_errors":0}
+{"timestamp":"2026-11-07T00:30:34Z","kind":"monitor","cost":0.00408640399999999,"n_queries":200,"n_errors":4}
+{"timestamp":"2026-11-07T00:30:34Z","kind":"reinit","cost":0.06544834800000526,"n_queries":8275,"n_errors":5137}
