@@ -720,6 +720,15 @@
       "first_detected": "2026-06-11T17:41:46.966404Z",
       "level_shift": 0.7956571428571428,
       "published": true
+    },
+    {
+      "endpoint": "openai2fgpt-4o-2024-05-1323azure",
+      "index": 9827,
+      "date": "2026-10-31T17:43:54Z",
+      "sigma": 37.6512796633487,
+      "first_detected": "2026-11-07T02:57:37.090780Z",
+      "level_shift": 0.4402571428571429,
+      "published": true
     }
   ],
   "openai2fgpt-4o-2024-05-1323openai": [],
@@ -1477,5 +1486,6 @@
   "google2fgemma-4-31b-it23dekallm": [],
   "deepseek2fdeepseek-v4.1-flash23sail-research2ffp42fus": [],
   "deepseek2fdeepseek-v4.1-flash23mancer2ffp8": [],
-  "deepseek2fdeepseek-v4-pro-081323nebius2ffp8": []
+  "deepseek2fdeepseek-v4-pro-081323nebius2ffp8": [],
+  "deepseek2fdeepseek-v4.1-flash-101723fireworks2fspot": []
 }
