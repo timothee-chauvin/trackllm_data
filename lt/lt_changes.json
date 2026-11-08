@@ -1393,17 +1393,7 @@
   "deepseek2fdeepseek-v4.1-flash23together": [],
   "qwen2fqwen3.8-27b23dekallm": [],
   "deepseek2fdeepseek-v4.1-flash23fireworks": [],
-  "deepseek2fdeepseek-v4-flash-073123wafer2ffast": [
-    {
-      "endpoint": "deepseek2fdeepseek-v4-flash-073123wafer2ffast",
-      "index": 154,
-      "date": "2026-10-23T18:21:37Z",
-      "sigma": 12.047740309869747,
-      "first_detected": "2026-11-08T19:50:33.823488Z",
-      "level_shift": 0.9488,
-      "published": true
-    }
-  ],
+  "deepseek2fdeepseek-v4-flash-073123wafer2ffast": [],
   "deepseek2fdeepseek-v4.1-flash23phala": [],
   "deepseek2fdeepseek-v4-pro-081323sail-research2fus": [],
   "deepseek2fdeepseek-v4.1-flash23digitalocean": [],
