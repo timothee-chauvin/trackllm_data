@@ -32,3 +32,4 @@
 {"timestamp":"2026-11-07T21:01:52Z","kind":"lt","cost":6e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-11-08T00:44:40Z","kind":"lt","cost":6e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-11-08T07:29:05Z","kind":"lt","cost":6e-6,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-11-08T06:49:43Z","kind":"vetting","cost":3e-6,"n_queries":1,"n_errors":0}
