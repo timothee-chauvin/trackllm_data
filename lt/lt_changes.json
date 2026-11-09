@@ -1393,7 +1393,17 @@
   "deepseek2fdeepseek-v4.1-flash23together": [],
   "qwen2fqwen3.8-27b23dekallm": [],
   "deepseek2fdeepseek-v4.1-flash23fireworks": [],
-  "deepseek2fdeepseek-v4-flash-073123wafer2ffast": [],
+  "deepseek2fdeepseek-v4-flash-073123wafer2ffast": [
+    {
+      "endpoint": "deepseek2fdeepseek-v4-flash-073123wafer2ffast",
+      "index": 157,
+      "date": "2026-10-24T05:53:46Z",
+      "sigma": 12.198777805805475,
+      "first_detected": "2026-11-09T17:38:25.787277Z",
+      "level_shift": 1.0899714285714286,
+      "published": true
+    }
+  ],
   "deepseek2fdeepseek-v4.1-flash23phala": [],
   "deepseek2fdeepseek-v4-pro-081323sail-research2fus": [],
   "deepseek2fdeepseek-v4.1-flash23digitalocean": [],
@@ -1491,5 +1501,10 @@
   "deepseek2fdeepseek-v4.1-flash-101723streamlake": [],
   "deepseek2fdeepseek-v4.1-flash-101723streamlake2ffp8": [],
   "moonshotai2fkimi-k323wafer2ffast": [],
-  "deepseek2fdeepseek-v4.1-flash23wafer2fmxfp4": []
+  "deepseek2fdeepseek-v4.1-flash23wafer2fmxfp4": [],
+  "deepseek2fdeepseek-v4.1-flash-101723fireworks2fus": [],
+  "google2fgemma-4-26b-a4b-it23akashml2ffp4": [],
+  "nvidia2fnemotron-3.5-super-vl23darkbloom2fnvfp4": [],
+  "qwen2fqwen3.5-9b23darkbloom2ffp4": [],
+  "tencent2fhy4-preview23gmicloud2fbf16": []
 }
