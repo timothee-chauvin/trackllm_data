@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "ricursiveai/ripple-65b-preview",
+    "provider": "together",
+    "cost": [
+      0.2,
+      0.6
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 2.4e-6,
+    "created": "2026-11-04T19:03:10Z",
+    "last_seen": "2026-11-10T07:49:34Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-10T07:56:14Z",
+    "last_recheck": "2026-11-10T07:56:14Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

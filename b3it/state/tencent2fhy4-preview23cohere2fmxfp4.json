@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "tencent/hy4-preview",
+    "provider": "cohere/mxfp4",
+    "cost": [
+      0.834,
+      2.501
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.000020849,
+    "created": "2026-08-28T06:09:35Z",
+    "last_seen": "2026-11-09T07:22:19Z",
+    "supports_temperature": null,
+    "supports_logprobs": null
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-10T07:56:14Z",
+    "last_recheck": "2026-11-10T07:56:14Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}

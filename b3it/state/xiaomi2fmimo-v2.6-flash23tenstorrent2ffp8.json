@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "xiaomi/mimo-v2.6-flash",
+    "provider": "tenstorrent/fp8",
+    "cost": [
+      0.165,
+      0.33
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.98e-6,
+    "created": "2026-09-21T20:07:44Z",
+    "last_seen": "2026-11-10T07:49:34Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-10T07:56:14Z",
+    "last_recheck": "2026-11-10T07:56:14Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
