@@ -41,3 +41,4 @@
 {"timestamp":"2026-11-09T07:28:10Z","kind":"onboard","cost":0.018367999999996366,"n_queries":20000,"n_errors":0}
 {"timestamp":"2026-11-09T17:38:22Z","kind":"lt","cost":1.8368e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-11-10T01:41:50Z","kind":"lt","cost":1.8368e-6,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-11-10T03:03:50Z","kind":"monitor","cost":0.00018368000000000022,"n_queries":200,"n_errors":0}
