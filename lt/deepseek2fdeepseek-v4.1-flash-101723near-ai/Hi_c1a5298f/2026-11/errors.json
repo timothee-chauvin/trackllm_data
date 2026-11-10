@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":502,"message":"{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"message\\\":\\\"Invalid or missing Authorization header\\\",\\\"type\\\":\\\"unauthorized\\\",\\\"param\\\":null,\\\"code\\\":null}}\",\"provider_name\":\"Near AI\",\"is_byok\":false}}"}]}
