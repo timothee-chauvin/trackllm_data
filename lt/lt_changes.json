@@ -1498,5 +1498,7 @@
   "qwen2fqwen3.5-9b23darkbloom2ffp4": [],
   "tencent2fhy4-preview23gmicloud2fbf16": [],
   "deepseek2fdeepseek-v4-pro-081323wafer2fus": [],
-  "deepseek2fdeepseek-v4.1-flash-101723cohere": []
+  "deepseek2fdeepseek-v4.1-flash-101723cohere": [],
+  "deepseek2fdeepseek-v4.1-flash-101723particle-ai": [],
+  "particle-ai2fparticle-123particle-ai": []
 }
