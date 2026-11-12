@@ -1393,7 +1393,17 @@
   "deepseek2fdeepseek-v4.1-flash23together": [],
   "qwen2fqwen3.8-27b23dekallm": [],
   "deepseek2fdeepseek-v4.1-flash23fireworks": [],
-  "deepseek2fdeepseek-v4-flash-073123wafer2ffast": [],
+  "deepseek2fdeepseek-v4-flash-073123wafer2ffast": [
+    {
+      "endpoint": "deepseek2fdeepseek-v4-flash-073123wafer2ffast",
+      "index": 165,
+      "date": "2026-11-05T12:20:12Z",
+      "sigma": 21.070488336410182,
+      "first_detected": "2026-11-12T03:07:21.973448Z",
+      "level_shift": 2.391814285714286,
+      "published": true
+    }
+  ],
   "deepseek2fdeepseek-v4.1-flash23phala": [],
   "deepseek2fdeepseek-v4-pro-081323sail-research2fus": [],
   "deepseek2fdeepseek-v4.1-flash23digitalocean": [],
@@ -1500,5 +1510,6 @@
   "deepseek2fdeepseek-v4-pro-081323wafer2fus": [],
   "deepseek2fdeepseek-v4.1-flash-101723cohere": [],
   "deepseek2fdeepseek-v4.1-flash-101723particle-ai": [],
-  "particle-ai2fparticle-123particle-ai": []
+  "particle-ai2fparticle-123particle-ai": [],
+  "deepseek2fdeepseek-v4-flash-073123wafer2fus": []
 }
