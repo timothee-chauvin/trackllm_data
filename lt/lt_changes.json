@@ -1511,5 +1511,6 @@
   "deepseek2fdeepseek-v4.1-flash-101723cohere": [],
   "deepseek2fdeepseek-v4.1-flash-101723particle-ai": [],
   "particle-ai2fparticle-123particle-ai": [],
-  "deepseek2fdeepseek-v4-flash-073123wafer2fus": []
+  "deepseek2fdeepseek-v4-flash-073123wafer2fus": [],
+  "nvidia2fnemotron-3.5-lightning23fireworks": []
 }
