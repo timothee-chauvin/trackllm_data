@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "minimax/minimax-m3.1-flash",
+    "provider": "inferact-vllm/nvfp4",
+    "cost": [
+      0.075,
+      0.3
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 0.000015,
+    "created": "2026-10-19T03:12:49Z",
+    "last_seen": "2026-11-14T07:09:24Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-14T07:23:20Z",
+    "last_recheck": "2026-11-14T07:23:20Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
