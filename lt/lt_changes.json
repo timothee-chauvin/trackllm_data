@@ -1398,7 +1398,7 @@
       "endpoint": "deepseek2fdeepseek-v4-flash-073123wafer2ffast",
       "index": 165,
       "date": "2026-11-05T12:20:12Z",
-      "sigma": 21.070488336410182,
+      "sigma": 21.070488336410186,
       "first_detected": "2026-11-12T03:07:21.973448Z",
       "level_shift": 2.391814285714286,
       "published": true
@@ -1515,5 +1515,6 @@
   "nvidia2fnemotron-3.5-lightning23fireworks": [],
   "deepseek2fdeepseek-v4-flash23wafer2fmxfp4": [],
   "moonshotai2fkimi-k323wafer": [],
-  "moonshotai2fkimi-k323wafer2fus": []
+  "moonshotai2fkimi-k323wafer2fus": [],
+  "deepseek2fdeepseek-v4.1-flash-101723near-ai": []
 }
