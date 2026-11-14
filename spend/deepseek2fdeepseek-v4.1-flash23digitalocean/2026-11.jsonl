@@ -69,3 +69,4 @@
 {"timestamp":"2026-11-13T07:26:19Z","kind":"vetting","cost":2.025e-6,"n_queries":1,"n_errors":0}
 {"timestamp":"2026-11-13T16:30:40Z","kind":"lt","cost":4.05e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-11-13T22:44:03Z","kind":"lt","cost":4.05e-6,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-11-14T01:07:57Z","kind":"monitor","cost":0.0005400000000000016,"n_queries":200,"n_errors":0}
