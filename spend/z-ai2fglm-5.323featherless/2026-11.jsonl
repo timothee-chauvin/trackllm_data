@@ -1,2 +1,3 @@
 {"timestamp":"2026-11-14T07:09:24Z","kind":"vetting","cost":0.000013749999999999999,"n_queries":3,"n_errors":1}
 {"timestamp":"2026-11-14T07:23:20Z","kind":"onboard","cost":0.1254343750000455,"n_queries":20000,"n_errors":1755}
+{"timestamp":"2026-11-15T00:32:14Z","kind":"monitor","cost":0.0013543749999999992,"n_queries":200,"n_errors":3}
