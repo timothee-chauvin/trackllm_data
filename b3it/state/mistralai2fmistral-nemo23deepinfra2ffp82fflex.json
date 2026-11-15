@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "mistralai/mistral-nemo",
+    "provider": "deepinfra/fp8/flex",
+    "cost": [
+      0.0232,
+      0.024
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.4e-7,
+    "created": "2024-07-19T00:00:00Z",
+    "last_seen": "2026-11-15T07:20:43Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-15T07:32:28Z",
+    "last_recheck": "2026-11-15T07:32:28Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
