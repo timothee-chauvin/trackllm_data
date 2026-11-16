@@ -1245,9 +1245,9 @@
     },
     {
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
-      "index": 825,
-      "date": "2026-11-09T06:28:07Z",
-      "sigma": 211.29710219511264,
+      "index": 826,
+      "date": "2026-11-09T17:29:19Z",
+      "sigma": 228.28761202255438,
       "first_detected": "2026-11-16T02:13:18.560744Z",
       "level_shift": 5.387642857142858,
       "published": true
