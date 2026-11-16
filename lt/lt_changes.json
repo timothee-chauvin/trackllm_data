@@ -1159,7 +1159,17 @@
   "qwen2fqwen3-30b-a3b-instruct-250723dekallm": [],
   "google2fgemma-4-31b-it23open-inference2fbf16": [],
   "deepseek2fdeepseek-v4-pro23ionstream2ffp4": [],
-  "openai2fgpt-oss-120b23mancer2ffp8": [],
+  "openai2fgpt-oss-120b23mancer2ffp8": [
+    {
+      "endpoint": "openai2fgpt-oss-120b23mancer2ffp8",
+      "index": 894,
+      "date": "2026-11-08T23:43:00Z",
+      "sigma": 1063.8106290543299,
+      "first_detected": "2026-11-16T02:13:18.560744Z",
+      "level_shift": 3.3219714285714286,
+      "published": true
+    }
+  ],
   "google2fgemma-4-31b-it23morph2ffp4": [],
   "z-ai2fglm-5.223wafer2ffp4": [],
   "qwen2fqwen3-235b-a22b-thinking-250723novita2ffp8": [],
@@ -1231,6 +1241,15 @@
       "sigma": 105.39276832358311,
       "first_detected": "2026-09-08T10:37:41.653419Z",
       "level_shift": 7.1838,
+      "published": true
+    },
+    {
+      "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
+      "index": 825,
+      "date": "2026-11-09T06:28:07Z",
+      "sigma": 211.29710219511264,
+      "first_detected": "2026-11-16T02:13:18.560744Z",
+      "level_shift": 5.387642857142858,
       "published": true
     }
   ],
