@@ -377,7 +377,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23mancer2ffp8",
       "index": 2991,
       "date": "2026-08-14T06:42:44Z",
-      "sigma": 24.689099859328064,
+      "sigma": 24.689099859328067,
       "first_detected": "2026-08-15T09:47:02.421328Z",
       "level_shift": 10.180457142857144,
       "published": true
@@ -1245,11 +1245,11 @@
     },
     {
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
-      "index": 826,
-      "date": "2026-11-09T17:29:19Z",
-      "sigma": 228.28761202255438,
+      "index": 828,
+      "date": "2026-11-10T09:50:41Z",
+      "sigma": 269.53335201886944,
       "first_detected": "2026-11-16T02:13:18.560744Z",
-      "level_shift": 5.387642857142858,
+      "level_shift": 6.413328571428572,
       "published": true
     }
   ],
@@ -1544,5 +1544,6 @@
   "deepseek2fdeepseek-v4.1-flash-101723particle-ai2fus": [],
   "deepseek2fdeepseek-v4.1-flash-101723particle-ai2fus2fflex": [],
   "google2fgemma-4-31b-it23nextbit2ffp4": [],
-  "particle-ai2fparticle-123particle-ai2fus": []
+  "particle-ai2fparticle-123particle-ai2fus": [],
+  "morph2fmorph-v3-fast23morph2ffp8": []
 }
