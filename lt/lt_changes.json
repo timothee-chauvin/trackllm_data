@@ -1545,5 +1545,12 @@
   "deepseek2fdeepseek-v4.1-flash-101723particle-ai2fus2fflex": [],
   "google2fgemma-4-31b-it23nextbit2ffp4": [],
   "particle-ai2fparticle-123particle-ai2fus": [],
-  "morph2fmorph-v3-fast23morph2ffp8": []
+  "morph2fmorph-v3-fast23morph2ffp8": [],
+  "deepseek2fdeepseek-v4-pro-081323parasail2ffast": [],
+  "deepseek2fdeepseek-v4.1-flash-101723dekallm": [],
+  "deepseek2fdeepseek-v4.1-flash23parasail2ffast": [],
+  "inclusionai2fling-3.0-tiny23antdigital2ffp8": [],
+  "openai2fgpt-oss-120b23akashml2ffp4": [],
+  "openai2fgpt-oss-120b23parasail2ffast": [],
+  "qwen2fqwen3.8-27b23nebius2ffp4": []
 }
