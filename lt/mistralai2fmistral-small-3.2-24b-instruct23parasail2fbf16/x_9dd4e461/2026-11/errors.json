@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":502,"message":"{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\\"id\\\":\\\"a0492cb00f9bf3c072c865e03d60f5c3\\\",\\\"error\\\":{\\\"message\\\":\\\"Error\\\",\\\"type\\\":null,\\\"param\\\":null,\\\"code\\\":null,\\\"request_id\\\":\\\"a0492cb00f9bf3c072c865e03d60f5c3\\\"}}\",\"provider_name\":\"Parasail\",\"is_byok\":false}}"}]}

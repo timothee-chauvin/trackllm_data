@@ -1552,5 +1552,6 @@
   "inclusionai2fling-3.0-tiny23antdigital2ffp8": [],
   "openai2fgpt-oss-120b23akashml2ffp4": [],
   "openai2fgpt-oss-120b23parasail2ffast": [],
-  "qwen2fqwen3.8-27b23nebius2ffp4": []
+  "qwen2fqwen3.8-27b23nebius2ffp4": [],
+  "google2fgemma-4-31b-it23modal": []
 }
