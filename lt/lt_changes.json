@@ -377,7 +377,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23mancer2ffp8",
       "index": 2991,
       "date": "2026-08-14T06:42:44Z",
-      "sigma": 24.689099859328074,
+      "sigma": 24.689099859328067,
       "first_detected": "2026-08-15T09:47:02.421328Z",
       "level_shift": 10.180457142857144,
       "published": true
@@ -1387,7 +1387,17 @@
   "qwen2fqwen3.8-27b23parasail2ffp8": [],
   "qwen2fqwen3.8-27b23reka2ffp8": [],
   "qwen2fqwen3.8-flash23alibaba": [],
-  "z-ai2fglm-5.223alibaba2ffast": [],
+  "z-ai2fglm-5.223alibaba2ffast": [
+    {
+      "endpoint": "z-ai2fglm-5.223alibaba2ffast",
+      "index": 330,
+      "date": "2026-11-12T11:09:15Z",
+      "sigma": 72.07251151230625,
+      "first_detected": "2026-11-19T21:41:58.057027Z",
+      "level_shift": 3.5042714285714283,
+      "published": true
+    }
+  ],
   "z-ai2fglm-5.223mistral2feu": [],
   "z-ai2fglm-5.223mistral2fzdr": [],
   "deepseek2fdeepseek-v4-flash-073123reka2ffp4": [],
