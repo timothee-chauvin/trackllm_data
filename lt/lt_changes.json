@@ -656,7 +656,7 @@
       "date": "2025-09-10T14:00:19Z",
       "sigma": 28.242637239988856,
       "first_detected": "2026-06-11T17:41:46.966404Z",
-      "level_shift": 0.6756142857142857,
+      "level_shift": 0.8605714285714284,
       "published": true
     },
     {
@@ -665,7 +665,7 @@
       "date": "2025-09-25T17:00:20Z",
       "sigma": 19.959083304600995,
       "first_detected": "2026-06-11T17:41:46.966404Z",
-      "level_shift": 0.6553,
+      "level_shift": 0.8396714285714286,
       "published": true
     },
     {
@@ -674,7 +674,7 @@
       "date": "2025-10-15T22:00:18Z",
       "sigma": 65.69886750733222,
       "first_detected": "2026-06-11T17:41:46.966404Z",
-      "level_shift": 0.6297428571428572,
+      "level_shift": 0.8004857142857142,
       "published": true
     }
   ],
@@ -1564,5 +1564,6 @@
   "openai2fgpt-oss-120b23parasail2ffast": [],
   "qwen2fqwen3.8-27b23nebius2ffp4": [],
   "google2fgemma-4-31b-it23modal": [],
-  "xiaomi2fmimo-v2.6-pro23primalabs2ffp8": []
+  "xiaomi2fmimo-v2.6-pro23primalabs2ffp8": [],
+  "minimax2fminimax-m323parasail2ffast": []
 }
