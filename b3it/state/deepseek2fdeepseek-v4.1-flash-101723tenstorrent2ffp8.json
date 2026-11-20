@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "provider": "tenstorrent/fp8",
+    "cost": [
+      0.1,
+      0.4
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 9e-7,
+    "created": "2026-10-17T08:27:04Z",
+    "last_seen": "2026-11-20T07:54:49Z",
+    "supports_temperature": true,
+    "supports_logprobs": false
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-20T08:00:19Z",
+    "last_recheck": "2026-11-20T08:00:19Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
