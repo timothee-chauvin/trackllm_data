@@ -1565,5 +1565,10 @@
   "qwen2fqwen3.8-27b23nebius2ffp4": [],
   "google2fgemma-4-31b-it23modal": [],
   "xiaomi2fmimo-v2.6-pro23primalabs2ffp8": [],
-  "minimax2fminimax-m323parasail2ffast": []
+  "minimax2fminimax-m323parasail2ffast": [],
+  "deepseek2fdeepseek-v4-flash-073123cohere2ffp8": [],
+  "deepseek2fdeepseek-v4.1-flash-101723cohere2ffp8": [],
+  "deepseek2fdeepseek-v4.1-flash-101723primalabs": [],
+  "deepseek2fdeepseek-v4.1-flash23cohere2ffp8": [],
+  "xiaomi2fmimo-v2.6-flash23cohere2ffp8": []
 }
