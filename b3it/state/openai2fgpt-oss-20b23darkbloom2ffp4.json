@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "openai/gpt-oss-20b",
+    "provider": "darkbloom/fp4",
+    "cost": [
+      0.0153,
+      0.0765
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.53e-7,
+    "created": "2025-08-05T17:17:09Z",
+    "last_seen": "2026-11-24T10:30:37Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-24T10:37:04Z",
+    "last_recheck": "2026-11-24T10:37:04Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
