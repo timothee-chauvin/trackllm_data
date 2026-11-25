@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":502,"message":"{\"message\":\"Provider returned error\",\"code\":502,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"message\\\":\\\"Model 'DeepSeek-V4-Pro-US' was not served: this endpoint serves only from the US region, and no backend in that region is available for it.\\\",\\\"type\\\":\\\"permission_error\\\",\\\"param\\\":\\\"model\\\",\\\"code\\\":\\\"region_unavailable\\\",\\\"request_id\\\":\\\"60ff057555ef\\\"}}\",\"provider_name\":\"Wafer\",\"is_byok\":false,\"provider_error_code\":\"region_unavailable\"}}"}]}
