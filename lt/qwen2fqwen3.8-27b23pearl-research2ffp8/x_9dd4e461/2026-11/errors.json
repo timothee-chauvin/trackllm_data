@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":529,"message":"{\"message\":\"Provider returned error\",\"code\":529,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"message\\\":\\\"All regions are out of capacity for this model\\\",\\\"request_id\\\":\\\"1c1a30c96c82499fa29e26bf5f98f5df\\\",\\\"type\\\":\\\"api_error\\\"}}\",\"provider_name\":\"Pearl Research\",\"is_byok\":false,\"retry_after_seconds\":15,\"retry_after_seconds_raw\":15,\"headers\":{\"Retry-After\":\"15\"}}}"}]}
