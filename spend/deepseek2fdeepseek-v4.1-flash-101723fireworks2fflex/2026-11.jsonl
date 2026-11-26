@@ -1,1 +1,2 @@
 {"timestamp":"2026-11-26T09:04:07Z","kind":"vetting","cost":1.35e-6,"n_queries":1,"n_errors":0}
+{"timestamp":"2026-11-26T15:25:14Z","kind":"lt","cost":2.7e-6,"n_queries":2,"n_errors":0}

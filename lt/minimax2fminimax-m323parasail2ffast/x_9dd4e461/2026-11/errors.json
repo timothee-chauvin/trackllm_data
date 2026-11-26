@@ -1,1 +1,1 @@
-{"seen_errors":[]}
+{"seen_errors":[{"http_code":503,"message":"{\"message\":\"Provider returned error\",\"code\":503,\"metadata\":{\"raw\":\"{\\\"id\\\":\\\"9a114ffff7a3bf21b8f13464939c96c6\\\",\\\"error\\\":{\\\"message\\\":\\\"The model server answered 503.\\\",\\\"type\\\":\\\"no_available_endpoints\\\",\\\"code\\\":\\\"503\\\",\\\"request_id\\\":\\\"9a114ffff7a3bf21b8f13464939c96c6\\\"}}\",\"provider_name\":\"Parasail\",\"is_byok\":false,\"provider_error_code\":\"503\"}}"}]}
