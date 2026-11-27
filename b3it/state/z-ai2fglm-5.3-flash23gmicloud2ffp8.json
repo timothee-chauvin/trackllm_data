@@ -14,8 +14,12 @@
     "supports_temperature": true,
     "supports_logprobs": false
   },
-  "status": "monitoring",
-  "retired": null,
+  "status": "retired",
+  "retired": {
+    "reason": "stalled",
+    "since": "2026-11-27T03:22:52Z",
+    "last_recheck": "2026-11-27T03:22:52Z"
+  },
   "epochs": [
     {
       "start": "2026-08-28T12:28:28Z",
@@ -24154,8 +24158,8 @@
           ]
         ]
       },
-      "end": null,
-      "end_reason": null,
+      "end": "2026-11-27T03:22:52Z",
+      "end_reason": "stalled",
       "change_date": null,
       "params": null
     }

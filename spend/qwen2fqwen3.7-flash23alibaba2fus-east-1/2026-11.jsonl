@@ -128,3 +128,4 @@
 {"timestamp":"2026-11-26T05:12:56Z","kind":"lt","cost":1.196e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-11-26T15:25:14Z","kind":"lt","cost":1.196e-6,"n_queries":2,"n_errors":0}
 {"timestamp":"2026-11-27T00:02:42Z","kind":"lt","cost":1.196e-6,"n_queries":2,"n_errors":0}
+{"timestamp":"2026-11-27T03:22:52Z","kind":"monitor","cost":0.0001195999999999995,"n_queries":200,"n_errors":0}
