@@ -1126,18 +1126,18 @@
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
       "index": 588,
       "date": "2026-08-20T16:50:43Z",
-      "sigma": 116.02085259252779,
+      "sigma": 115.98744825958364,
       "first_detected": "2026-08-20T17:01:25.387244Z",
-      "level_shift": 0.19147142857142857,
+      "level_shift": 0.20327142857142858,
       "published": true
     },
     {
       "endpoint": "meta-llama2fllama-3.2-3b-instruct23parasail2fbf16",
       "index": 919,
       "date": "2026-10-01T23:12:45Z",
-      "sigma": 129.7289209034201,
+      "sigma": 129.72918035182224,
       "first_detected": "2026-10-07T07:25:48.086939Z",
-      "level_shift": 0.7339285714285715,
+      "level_shift": 0.9705142857142858,
       "published": true
     }
   ],
@@ -1238,7 +1238,7 @@
       "endpoint": "gryphe2fmythomax-l2-13b23parasail2ffp16",
       "index": 474,
       "date": "2026-09-01T05:08:37Z",
-      "sigma": 105.39276832358311,
+      "sigma": 105.39276832358313,
       "first_detected": "2026-09-08T10:37:41.653419Z",
       "level_shift": 7.1838,
       "published": true
