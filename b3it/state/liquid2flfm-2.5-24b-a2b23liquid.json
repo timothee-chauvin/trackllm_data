@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "liquid/lfm-2.5-24b-a2b",
+    "provider": "liquid",
+    "cost": [
+      0.05,
+      0.7
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 1.25e-6,
+    "created": "2026-10-13T17:20:25Z",
+    "last_seen": "2026-11-27T09:15:34Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-27T09:21:46Z",
+    "last_recheck": "2026-11-27T09:21:46Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
