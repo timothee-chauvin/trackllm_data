@@ -1,0 +1,26 @@
+{
+  "endpoint": {
+    "api": "openrouter",
+    "model": "qwen/qwen3.5-9b",
+    "provider": "primeintellect/flex",
+    "cost": [
+      0.038,
+      0.057
+    ],
+    "max_logprobs": null,
+    "cost_per_request": 5.51e-7,
+    "created": "2026-03-10T14:19:56Z",
+    "last_seen": "2026-11-28T08:31:36Z",
+    "supports_temperature": true,
+    "supports_logprobs": true
+  },
+  "status": "retired",
+  "retired": {
+    "reason": "no_bis",
+    "since": "2026-11-28T08:43:45Z",
+    "last_recheck": "2026-11-28T08:43:45Z"
+  },
+  "epochs": [],
+  "deselected_since": null,
+  "reinit_timeout_streak": 0
+}
